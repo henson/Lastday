@@ -1,0 +1,27 @@
+{
+  "20130101": {
+    "colors": {
+      "background": "#ffdb34"
+    },
+    "images": {
+      "small": "{img}/20130101/default@2x.jpg",
+      "small2x": "{img}/20130101/default@2x.jpg",
+      "small568h2x": "{img}/20130101/default-568h@2x.jpg",
+      "big": "{img}/20130101/big.jpg",
+      "big2x": "{img}/20130101/big@2x.jpg",
+      "big568h2x": "{img}/20130101/big-568h@2x.jpg"
+    },
+    "text": {
+      "comment1": "新年快乐",
+      "comment2": "Rome,意大利.生命每瞬之光,都是最闪耀的极致"
+    },
+    "event": "元旦",
+    "music": {
+      "name": "Symphony No 9 From The New World Dvorak",
+      "artist": "伦敦交响乐团",
+      "url": "{music}/20130101/Symphony%20No.%209%20(From%20The%20New%20World)%20(Dvorak).mp3",
+      "nitingCode": "1356751534646"
+    },
+    "modifiedAt": "2012-12-30T06:28:34.000Z"
+  }
+}
