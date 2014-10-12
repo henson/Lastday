@@ -1,5 +1,6 @@
 {
   "20120801": {
+    "dateKey": "20120801",
     "colors": {
       "background": "#fe0000"
     },
@@ -9,18 +10,20 @@
       "small568h2x": "{img}/20120801/default@2x.jpg",
       "big": "{img}/20120801/big.jpg",
       "big2x": "{img}/20120801/big@2x.jpg",
-      "big568h2x": "{img}/20120801/big@2x.jpg"
+      "big568h2x": "{img}/20120801/big@2x.jpg",
+      "big568h3x": "{img}/20120801/big@2x.jpg"
     },
     "text": {
       "comment1": "瑞士国庆日",
       "comment2": "Bern,瑞士.上帝就住在这块土地上"
     },
     "event": "",
-    "music": {
-      "name": "Switzerland - Landeshymne",
-      "artist": "St Marks Philharmonic Orchestra",
-      "nitingCode": "1343710490465"
+    "geo": {
+      "reverse": "Bern,瑞士"
     },
-    "modifiedAt": "2012-12-04T13:35:57.000Z"
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2014-10-12T20:40:12.266Z"
   }
 }
