@@ -1,5 +1,6 @@
 {
   "20121017": {
+    "dateKey": "20121017",
     "colors": {
       "background": "#f4cf82"
     },
@@ -9,18 +10,20 @@
       "small568h2x": "{img}/20121017/default@2x.jpg",
       "big": "{img}/20121017/big.jpg",
       "big2x": "{img}/20121017/big@2x.jpg",
-      "big568h2x": "{img}/20121017/big@2x.jpg"
+      "big568h2x": "{img}/20121017/big@2x.jpg",
+      "big568h3x": "{img}/20121017/big@2x.jpg"
     },
     "text": {
       "comment1": "国际消除贫困日",
       "comment2": "西安,中国.不要挣扎了,好吃的赶紧趁热吃"
     },
     "event": "",
-    "music": {
-      "name": "陕西美食",
-      "artist": "黑撒",
-      "nitingCode": "1347853037408"
+    "geo": {
+      "reverse": "西安,中国"
     },
-    "modifiedAt": "2012-12-04T13:36:18.000Z"
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2014-10-12T20:40:13.194Z"
   }
 }
