@@ -1,0 +1,45 @@
+{
+  "20150113": {
+    "dateKey": "20150113",
+    "text": {
+      "comment1": "交叉路口是人们相遇的地方",
+      "comment2": "Tokyo,日本.也是离别的地方",
+      "short": "交叉路口是人们相遇的地方,也是离别的地方"
+    },
+    "geo": {
+      "reverse": "Tokyo,日本"
+    },
+    "colors": {
+      "background": "#c60641"
+    },
+    "music": {
+      "title": "ラブ ストーリーは突然に",
+      "artist": "小田和正",
+      "url": "{music}/20150113/0113_conv.mp3",
+      "name": "ラブ ストーリーは突然に",
+      "nitingCode": "INVALID_1421107200000"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20150113/video.mp4",
+      "width": 640,
+      "height": 1136,
+      "length": 12.12,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20150113/default@2x.jpg!jpg85",
+      "small2x": "{img}/20150113/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20150113/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20150113/big.jpg!jpg85",
+      "big2x": "{img}/20150113/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20150113/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20150113/big-568h@3x.jpg!jpg85"
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-01-12T08:51:13.033Z"
+  }
+}
