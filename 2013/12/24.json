@@ -1,5 +1,6 @@
 {
   "20131224": {
+    "dateKey": "20131224",
     "colors": {
       "background": "#e72626"
     },
@@ -9,19 +10,27 @@
       "small568h2x": "{img}/20131224/default-568h@2x.jpg!jpg85",
       "big": "{img}/20131224/big.jpg!jpg85",
       "big2x": "{img}/20131224/big@2x.jpg!jpg85",
-      "big568h2x": "{img}/20131224/big-568h@2x.jpg!jpg85"
+      "big568h2x": "{img}/20131224/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20131224/big@2x.jpg!jpg85"
     },
     "text": {
       "comment1": "相约的,失约的,众人狂欢",
       "comment2": "Montreux,瑞士.几个这样一夜,我们开怀和关怀"
     },
     "event": "平安夜",
+    "geo": {
+      "reverse": "Montreux,瑞士"
+    },
     "music": {
-      "name": "Chicago",
+      "title": "Chicago",
       "artist": "Jingle Bells",
       "url": "{music}/20131224/1224_conv.mp3",
-      "nitingCode": "INVALID_1387774061338"
+      "name": "Chicago",
+      "nitingCode": "INVALID_1387843200000"
     },
-    "modifiedAt": "2014-09-01T03:32:36.000Z"
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAgMAAQQGBQf/xAAzEAACAQMCAwUGBQUAAAAAAAABAgMABBEFIRITMUFhcYGRBhQiMlFSFUKSobFDU4LB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/8QAHREBAQEBAQEAAwEAAAAAAAAAAAEREgJREyExQf/aAAwDAQACEQMRAD8A9UyV53oCZKYJx4oJzBQQSUFl2PbQCcmgiqaDOZl7HT9QqoAXEbsAs0ZJ2HC4OaA3IROOV1RcgZY4G/SgUt7ZENi9tm4RxNiVTgZxmmJqLqOnlmVb62LKCxAkBwB1plXYbBqOmyzpDHqNs8rnhVFcEk/SmU2F6rqsGn2Utxy5JCqBk+AhHycY4sbfXekmluG2mt6VPbxyC6iUugcozbrnsPoaWUnqPGt/Ze1jjnCwAPIMIeMngBGCP59a11WOWnTfZm0s5zN7uhYcPAeJiVI6kZ7Sd6X1qzzjVZ6IiQzRajN78skvMxNkhc92f3rNvxZPpVp7PadZyK3u0D4QqwKluLJyM52229Kt9Wk8yBt9Csre4WWO2gGGc44Cchuw5O4FNpkHFodtFei5ht4kYS80cEeCNsYznp/2mnMFqWizalYx2TTyxwowJCpuwHQHwqS5+1s39PNb2DtmxwzTJjvBzWvyVn8cdoyIBhcVzbLK+HmaoAqpO7UFrGmdwPOgcEUD4Y8nuWoLAfsh9TQXy2b5wB3ZopiIqjHLQ0Cfdpj1bFNQQsXPUk+dNMMXTz3fzTVw0WRA+Yj/AAoYIWoHWRz5VNMGsEI6q586GDCQj+nTTBDkjpGvpTTKISRZ2ye/FP0fsXNH5Vz41dTkPPI2zGKdHMWJpDsPi8BinVOYWy3D77Ad5pi7IoWlw3V1HlV5qdCFgx+eZvIYq8p2v8Pj/uSHzpynbUlpEv5c+JrU8Rm+6aIUGwQVrmM9VOWv2j0q8nVXw91MTU4TTDVFT2mpi6HzqKsHv/aqjMNSjzggY+oap3fi8T6E6pHnHCP1Cnd+HM+hbVkXOFVgPo3WnXr4vM+lrrSEkGPAHfV30nMM/GIcb4z41OvXw5n0t9aQY4VHrmnXpefKvxpAhOBkdmRmm+jnyWNaY7rGxFTfX0zyz8xftrk6fpRZT0HrV2mB+D7R6U2pkCVj+xfSr1TIopERui06qYTLBHy2KcYIHVfiPpV7py5yfXBDI6QsWAOOJlwP5rrJv9c9x58ntPchyBLgAdhIrXMOq67nNjqRXmdhrMcbneoDExoLEvdQXzT9BQYtRurHltbX1xAgkGeB3xn0qzf7Euf64K/CQzMkVxHcRDYMp6jw7K7RysYxyiT0Hln/AHV2mPooevO7DWQUBB6CpnYRMUkSNuxpBkDx3FBxV57Taqszxc+3XgYrxQLkHzOa6zxHPqvKuNTubp+ZcytI+McTHfH02rUkn8Tpk4lPUYB6YrWs6oyFdiEHiai6+i89x0xXndBc18fNRSL64lhsZZUY8UY4hvTzNo4mdzdQNcTZZ3JY5JOPWvR/GP7NYgAHOOwAir/jKHIAwTvRC2kblg9pOM0wIqo//9k="
+    },
+    "modifiedAt": "2015-04-10T10:20:41.027Z"
   }
 }

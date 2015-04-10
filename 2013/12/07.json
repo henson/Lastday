@@ -1,5 +1,6 @@
 {
   "20131207": {
+    "dateKey": "20131207",
     "colors": {
       "background": "#22cfa4"
     },
@@ -9,19 +10,27 @@
       "small568h2x": "{img}/20131207/default-568h@2x.jpg!jpg85",
       "big": "{img}/20131207/big.jpg!jpg85",
       "big2x": "{img}/20131207/big@2x.jpg!jpg85",
-      "big568h2x": "{img}/20131207/big-568h@2x.jpg!jpg85"
+      "big568h2x": "{img}/20131207/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20131207/big@2x.jpg!jpg85"
     },
     "text": {
       "comment1": "面前时代再低气温",
       "comment2": "Brantford,加拿大.留住最暖一面,渡过最冷一天"
     },
     "event": "大雪",
+    "geo": {
+      "reverse": "Brantford,加拿大"
+    },
     "music": {
-      "name": "最冷一天",
+      "title": "最冷一天",
       "artist": "陈奕迅",
       "url": "{music}/20131207/1207_conv.mp3",
-      "nitingCode": "INVALID_1386224822334"
+      "name": "最冷一天",
+      "nitingCode": "INVALID_1386374400000"
     },
-    "modifiedAt": "2014-09-01T03:32:36.000Z"
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAQIDBAAFBgf/xAA1EAABBAEBBAcGBQUAAAAAAAABAAIDBBESBRMhMQZBVWGRkpMUIlFTcaEVMkJSVGJygdHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABgRAQEBAQEAAAAAAAAAAAAAAAARASFB/9oADAMBAAIRAxEAPwDuAujBwimCBgopkBQFBiDUi/S7Rg87VUOL9LtKv6jFA4v0u0q/qsQMLtPtGD1WIphcqdoQeqxAwt1O0IfVYoGFqr/Ph9ViUH2it/Oi9ViUKAtIcAfAeCgIa39o8EUwYwj8jfAIDu2fsZ5QoDuo/ls8oRWbmL5UfkCDNxD8mLyBBCAtMmCimCBgoGCKKAoMUFYLSGCBggYKBgiigKgxBVC0hwgYKBgiigjdZgbII3SsDycYzxyoJkBRVMFaZEOBeW8cgA8kD5wMqCOzcr06xsWZWxxgc3HGe4fE9yKlZNHIxj43BzXt1NcOII+qg842gXO6T2AHP42uo/1LOtY9LEjXE6XZ4rSCg1V+xHWoTTTTGGNjcukAJLRnnwWmK1rel+wmjH4gf8xv/wBKFOOl+xHNcWXC4gct24Z+yFeebQ2vY2pfNq2XatRLAx35B1NGf+Kzuov9HdtS0J/Zml4qyNcC3JPHjg4+yNZqy5296R2SRysvOD/cVNbx2uzbW8ndgkgZB8VpG4yiOM25PNNWn2Ya1x+8gc8ysbqHA50/U4+63rDlYejsliw6GKbJHLU3B5cj8OPBc43ONrF0NmicM23BpedRDf0jke/6LUZVaVSxLPad7Lc1Vo3PYAwZkOQMD3etZi1uW9GHNiE0NiZ0e71bsxgOLs5054KxY1clWettGOWVhhksTcGPxkEnPV9VFdY3ZzqNeSw6YgtDnAZIwSVRe2VbfZoxvw8vx72tpAz3HrREwHeVtkGV4Wv1tiYHH9QaM+KgnACKYBQF72xsL3nDQMklFecw17e0+n8czH+5q35I94Ma3gPHGFn1XpQWkHkgptWmThA4UUUAdGyRpa9gcDzDhlQQQbN2fXm30FKCOTTp1NYAcfDKKuIMQUwtMHCKcIplAASXHuQOoCqCg//Z"
+    },
+    "modifiedAt": "2015-04-10T10:20:40.634Z"
   }
 }
