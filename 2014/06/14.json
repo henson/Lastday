@@ -1,5 +1,6 @@
 {
   "20140614": {
+    "dateKey": "20140614",
     "colors": {
       "background": "#1d2468"
     },
@@ -9,19 +10,27 @@
       "small568h2x": "{img}/20140614/default-568h@2x.jpg!jpg85",
       "big": "{img}/20140614/big.jpg!jpg85",
       "big2x": "{img}/20140614/big@2x.jpg!jpg85",
-      "big568h2x": "{img}/20140614/big-568h@2x.jpg!jpg85"
+      "big568h2x": "{img}/20140614/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20140614/big@2x.jpg!jpg85"
     },
     "text": {
       "comment1": "我们的天职就是走路",
       "comment2": "California,美国.走上一条比记忆还要长的路"
     },
     "event": "",
+    "geo": {
+      "reverse": "California,美国"
+    },
     "music": {
-      "name": "Remember Our Heart",
+      "title": "Remember Our Heart",
       "artist": "Alex Ebert",
       "url": "{music}/20140614/0614_conv.mp3",
-      "nitingCode": "INVALID_1402284628559"
+      "name": "Remember Our Heart",
+      "nitingCode": "INVALID_1402704000000"
     },
-    "modifiedAt": "2014-09-01T03:32:37.000Z"
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAgMFBAYBAP/EADMQAAIBAwIDBgYBAwUAAAAAAAECAwAEERIhBRMxIjJBUWFxFCNCgZHwwQax4TNSodHx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJBEAAgICAwABBQEBAAAAAAAAAAECEQMhEjFBUQQTIjJhUnH/2gAMAwEAAhEDEQA/AIQ4ncOHaMsqrjBB2NRc5N22ZJG7h3FRcRkTsqOGwN+8MVaM/wDTFooax1B2qgAWIPrWs1AM2OlC7MDuTlvxWb+A0DI5x6UiCIJOaa0Cmc1NdsPlIw5eACoGBXOo+sZs+jBnkRIELN19R703mwHUcLnW5s1M+vmD6x0YVZXxsGjTqhVDrLhs7YxWsNIAND1DOB6qCaDZkKkkiAypfPiNqXl8DUJMpY+P80Owo85chJwrN6gZoGo5meAwqjZyGG9LGViDhm3tMqe3L2ScYwPKqyxNR5SMpbpFXg8pFsI5MsVOQCegpYz8DxNryrnI3J86LkGkCWYnBNJYwvrtRMFEAG1SL2fIHrQckjJBPMS2R2c9cbUltjEieJp7sBgVRNgdiB5eldP0mK/yfRzSfgF9j4Ps4xqBAHhkD+c10/U/qaHY/hKlojuWdzgAegrzuSUqosiqkTom64ydiy70ssteBAUB2byUVuaqwAgxqFJ2LHG48aSeVoOgdWs7HpSQyfIUwSQKsEpR2VryOUjKlrbsGnvMYLsPpQ+A8Nq7YviqT0NKK9W30vj+skXNs00Ze3gkW1eTTCZCSSBWzZU8fJkpYvtySsO3gks4o9URDg53OD19K86bnCdsF30U4J5ZZmZZZADtoA2z510YZSkm5C1Q6aKCVCPlq6/URjJpc0IyXRWFkaWdkk06Qc7MMZxXEk67FZnQlWCDcAbE+efKnrkY2MI8DmHfHtigsjiMUAE4jHz7kC24Pbf6aDbXivT72+i+8bqO5sG4kur+2N3hYLKMiO3j6as7Z/FTzW4N+CZIxhHj3L0yXE88kMXO5YI8I0wDXBLJ9yVo50qR7YrK8xYLtGfqPh41fByS0b013T8jCqVxpG+d8+f/ADQySknor0Sbh4xCxkU8zPZIqcOPFr0R3YPDUm1LKuoRHvZwdx40uXj0+wqynqjBJbSSd9hg/euZxk+kMHGycTY3Nz8jhFrtGnTXj9/ivc/bb6LK8f4x3Ni+IyXV9YTcQA5NnbgfDR47xyBn8Us/yV+C5FHHBwW5PslNetcEsikEg6tt8edcqwcVys5lKx/PWIbSMzeDK2Pao43NO0FizcysCGkft7nV/cV0RxyyO30DlQsBVUByxAyQ4GRn2qjwJbRlJDY5By40R+yM5A8KlODStoopLwKcSSaRGe712qEJLdoxRVU4rNueTwiy+wcj9/Sa9L9v+FreJfM2PjLcYl5rLyuGW/ZiTprboP37UmRuUW0NSxri9yfZl4lwm1hLPzShPTbb71CGZ9MlLEuzI3ClCllmEnUA4ppNT60ScHEbZWGMCTQ6uwyH6oPenjyj0Cjc/DIk7SxjT5qxp1OzOIv4G0Iw0bIc9VbFZ7MlQ82VqTkIvTHXFReL+Dpo5iK+mMCW08khtA+powRnHvTKXnguPI4Pl2y2/G7WW5tooEZbGA5VF2LNjY/ajkmukWUlGHJu5MsG3+JhVrhewRkAjI+9RcPUCM/kXLZaAqRZTBzpJyPcVK2nspSZnns3jmaTI0tuABjH4roxZOWmRnCtnkdy8J3JxVWkxLNCtBOP9p8x0/FDaNpnjW8i9zJHmu4rckamcnLZNFsI3wNxncb1BSC4mUjkuUCjbx60zVidaOh4Lxi953JZjKAuyNgHHofH2rdDJs6b4qBoUGh2V9wAmf7dKzSkOm0euiDvghD1PiKk4uLtFE7JV7YzYJtGD790gAj/ALq0MqfZOUH4QWv50kIEaoQcHJO1dPFEOTNUfFplXdkGfLNK4obkMivdEbCVTJgnGrfIrg16dFoj3UaysXVRnqAAdvKqqVaJNIRJFNH2wAQoyfAr70U09Clz+nOIM93plXUQmFOokkeg86IYs7BZY3iQltaN3dqaxhckcbgmMED1OaRxT6GUmTOI21lOV+KARyO8pwf8/u9GGSUdM0oKW0SpODMp+UBIp+rQW/8AKup2RcR0ih4ip6EeHvXmHUISIRwtJlmYNnLHNUJy0gJIlktndxqbJG/ljOKdArROSFDA7jIIdRt7UW2nQElxsucKLsJQ0jkIcAFuoI/zTx2tgRpa7mg+XEQB+TTxikEzzs0xzIxb3p6AJSV4hpU5XwDb4paQbP/Z"
+    },
+    "modifiedAt": "2015-04-12T10:04:06.386Z"
   }
 }
