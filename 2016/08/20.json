@@ -1,0 +1,55 @@
+{
+  "20160820": {
+    "dateKey": "20160820",
+    "text": {
+      "comment1": "想要神奇能力",
+      "comment2": "Yokohama,日本.遇到强敌,只要download些想象力",
+      "short": "想要神奇能力,遇到强敌,只要download些想象力",
+      "watchTitle": "内心的阴暗面",
+      "watchBody": "和光明面一样的重要"
+    },
+    "geo": {
+      "reverse": "Yokohama,日本"
+    },
+    "colors": {
+      "background": "#bc141c"
+    },
+    "music": {
+      "title": "ピカチュウのうた",
+      "artist": "大谷育江",
+      "url": "{music}/20160820/0820_conv.mp3",
+      "name": "ピカチュウのうた",
+      "nitingCode": "INVALID_1471651200000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20160820/video.mp4",
+      "width": 608,
+      "height": 1080,
+      "length": 22.033333,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20160820/default@2x.jpg!jpg85",
+      "small2x": "{img}/20160820/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20160820/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20160820/big.jpg!jpg85",
+      "big2x": "{img}/20160820/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20160820/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20160820/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2016-08-15T12:09:41.006Z"
+  }
+}
