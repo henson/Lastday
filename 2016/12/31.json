@@ -1,0 +1,46 @@
+{
+  "20161231": {
+    "dateKey": "20161231",
+    "text": {
+      "comment1": "享受日深感激日笃",
+      "comment2": "Verona,意大利.对生的信仰更深沉",
+      "short": "享受日深,感激日笃,对生的信仰更深沉",
+      "watchTitle": "内心的阴暗面",
+      "watchBody": "和光明面一样的重要"
+    },
+    "geo": {
+      "reverse": "Verona,意大利"
+    },
+    "colors": {
+      "background": "#0f90c0"
+    },
+    "music": {
+      "title": "Wisdom",
+      "artist": "The Guggenheim Grotto",
+      "url": "{music}/20161231/1231_conv.mp3",
+      "name": "Wisdom",
+      "nitingCode": "INVALID_1483142400000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20161231/default@2x.jpg!jpg85",
+      "small2x": "{img}/20161231/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20161231/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20161231/big.jpg!jpg85",
+      "big2x": "{img}/20161231/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20161231/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20161231/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Rome",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2016-12-19T13:18:15.954Z"
+  }
+}
