@@ -1,0 +1,56 @@
+{
+  "20151224": {
+    "dateKey": "20151224",
+    "text": {
+      "comment1": "万紫千红,你挑选好了吗",
+      "comment2": "Tokyo,日本.全意为你守护,那是我天赋",
+      "short": "万紫千红,你挑选好了吗?全意为你守护是我天赋",
+      "watchTitle": "内心的阴暗面",
+      "watchBody": "和光明面一样的重要"
+    },
+    "geo": {
+      "reverse": "Tokyo,日本"
+    },
+    "event": "平安夜",
+    "colors": {
+      "background": "#855ef9"
+    },
+    "music": {
+      "title": "クリスマスソング",
+      "artist": "back number",
+      "url": "{music}/20151224/1224_conv.mp3",
+      "name": "クリスマスソング",
+      "nitingCode": "INVALID_1450915200000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20151224/video.mp4",
+      "width": 608,
+      "height": 1080,
+      "length": 22.7,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20151224/default@2x.jpg!jpg85",
+      "small2x": "{img}/20151224/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20151224/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20151224/big.jpg!jpg85",
+      "big2x": "{img}/20151224/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20151224/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20151224/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-12-21T10:10:39.111Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "20140130": {
+    "dateKey": "20140130",
+    "colors": {
+      "background": "#eb2020"
+    },
+    "images": {
+      "small": "{img}/20140130/default@2x.jpg!jpg85",
+      "small2x": "{img}/20140130/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20140130/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20140130/big.jpg!jpg85",
+      "big2x": "{img}/20140130/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20140130/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20140130/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "新春快乐,马上如愿",
+      "comment2": "北京,中国.大家平平安安,永远把温情留恋"
+    },
+    "event": "除夕",
+    "geo": {
+      "reverse": "北京,中国"
+    },
+    "music": {
+      "title": "又新年",
+      "artist": "郝云",
+      "url": "{music}/20140130/0130_conv.mp3",
+      "name": "又新年",
+      "nitingCode": "INVALID_1391040000000"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:14.841Z"
+  }
+}

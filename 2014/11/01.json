@@ -1,0 +1,49 @@
+{
+  "20141101": {
+    "dateKey": "20141101",
+    "text": {
+      "comment1": "爱情并未失传",
+      "comment2": "Zurich,瑞士.不管是否为人所知,爱依然暗自旺燃",
+      "short": "爱情并未失传,不管是否为人所知,爱依然暗自旺燃"
+    },
+    "geo": {
+      "reverse": "Zurich,瑞士"
+    },
+    "colors": {
+      "background": "#0821a0"
+    },
+    "music": {
+      "title": "The Age of Worry",
+      "artist": "John Mayer",
+      "url": "{music}/20141101/1101_conv.mp3",
+      "name": "The Age of Worry",
+      "nitingCode": "INVALID_1414800000000"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20141101/video.mp4",
+      "width": 640,
+      "height": 1136,
+      "length": 13.4,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20141101/default@2x.jpg!jpg85",
+      "small2x": "{img}/20141101/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20141101/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20141101/big.jpg!jpg85",
+      "big2x": "{img}/20141101/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20141101/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20141101/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Zurich",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAwQFAgAGAf/EADEQAAIBAwMDAwIFAwUAAAAAAAECAwAEEQUSITFBURMiYXGRFCMyQqEGUvAWgbHB4f/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACQRAAICAgICAQUBAAAAAAAAAAABAhEDITFBBBITFDJCUWGB/9oADAMBAAIRAxEAPwCTtr3Tz7O20CPu2gBq2i9UGM4x88VLdbGtjx0diRsz/vU/IivUxLpUpRjEv6OGB65pqaCmIgGPIZSD08VZITK/tJAx0AoCwJSmSdsoCz7twCcUnpWC26PkJJl3JIV74PxXBOdv2t0dUY0qPV6JqH4mOOCZld8E7iNvTx5rFZHdFuKqyoz24cxh1JI8+a0U9k0Rb3TUYmRDlQw9p711wn0zFxE59KCSYUkAjOMirU7JcSdsrUzOaM7TtznHGKmV06BciE5mKAsCoA5I7mvOzzyNW+EdmJRT0LpJIjAspVj5PX6VyxUo9Grpj1jqUkaAR7txyCCMYz89q0tNVwyad/wqW97cwuqMIWHYnGc/9VtGEl0Q5J9j13d77ZVHVxk4712whuzmlIGb9/TQe0kDB3L0qvjQvYSCVoZ2aCUCsnXE0BmYOmWGRkd68nyZxcuDvwxaiKSKwnUkKwY/pY8H4rn+RxlbRr6pqkDUqCyxo4Xdxg9B1x9Bk0PKnF0NRaYRJ9pAIyPPbFTGdUxuJYtHMsC9cJwPpXseLJSx2jz86akNCA7QSOviuizI16XFAjhHQTZB1IGKZgBsOSBgcYrxPKbjOuD1MNON8k1Mb97NkDnGM1y2+TXXAe3SJ/XUMVZjuRsZx/78U007AYhUYjhuGO3H7gD8ZB8V1Y/WkpcGUru0WNOIXdG20MP2+RXoYWlpnJlTe0Plc9q6TAnzazaoD6cc0uP7VwPua5JebjXGzdeNNi7a2rRZELxN4OGBH1rCXnqtLZtDw3e2Sbq8W4fcVAIPXrXnZMjm/Y7YY1FULoEPPfGOmO3apUq5E4/oH66pLgxDIA5J5ot3ZOqoKty4jyE3sD7QR0HfNJPdj6KdpeJ6oM27cOTtGPtXTDI1K57/AKZyjaqJeF2rKGjjkkUjggV6f1K/FNnD8D7dEyS4iaMMoMkjM5ZRA3f9IzjoK8m1R6CuxC8VNpCQsqgAFjGwyeck5H0rKRpGyTNIVcgrkHt2FJKwcq5BM7s/HsB/n606Qm2aiUGXcWBZgSEx1qW9BQRDE1vgCXeBzkYAFOqYJWfFZmjADOuOhGTQnTFQWO5mWJUi3cdc88/entvkP8PcS6LNJp9vbpLHHJEjK8gLZck9T/NaORPqxDVtK9MpGJAN0aqMA4GM5OfJqZysqMWjydzGA+3JAXzWcWU0Zjg3nk4BPUn/ADFOxdBUt4zqCQmaNGKbgxJx8CimBVu9PNshcMJUPBKDjOKlrZV6I6uuDuYgrgnC5481oopolsdWfTTGB+axyTnG3+OaVIVl1NG1hLdoQcblC8S9fOa0bVkUwWraffWtkR6TFd/tUPnt/n2qMm+Copoipo97JYm7ZAInxg7gM1JWyhdaNHDYWggnhZ1LNOzTLx0OOvwapL9iIkNndXerrbo6EtbB1zKANp6c5+elX0Ts9bpGnmyjuhcmP0zGNmJQwz7s9/BFS66Gr7PIH8Xah8QIVJz7iDx960oVlm21u1iLg2lvjIw2w+7+OKn1Cyf/AKov3Iji3rEGBK+oxLcdz1p0A1caveXFm8f4mREwSq5I5Pz1oSthwTdQgvZCodJ0VhtAkJAOB4zQlXJpNxf26EV0yXafy1LdqdmZuTTppSztGqscdG4oAyNKlB/bTsAi6bKKANtp0rclj96LAajtkjHtHP0pAN2tpJNKjocBGBLFQR/zQBTliuCAZLlCe26JetTsYCOC4ZiJ2g2HgbFUEfNFsAM8UsBy6jZnAYc1QgXqeMGgDLTxp+ogfU0AbE8DfuH3pACPSmBasY1W3QY6jP3oAU/qElLCModpEq4I+hoAnpcy4HuH2FTQ7NPK00QRwMZzkDB4ppCMqMAUwO6nBAIoA700/sFAH//Z"
+    },
+    "modifiedAt": "2015-04-13T10:48:17.729Z"
+  }
+}

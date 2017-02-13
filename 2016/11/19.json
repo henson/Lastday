@@ -1,0 +1,46 @@
+{
+  "20161119": {
+    "dateKey": "20161119",
+    "text": {
+      "comment1": "爱的龙卷风已经过去",
+      "comment2": "Monte Carlo,摩纳哥.一只鸟都没留下",
+      "short": "爱的龙卷风已经过去,一只鸟都没留下",
+      "watchTitle": "内心的阴暗面",
+      "watchBody": "和光明面一样的重要"
+    },
+    "geo": {
+      "reverse": "Monte Carlo,摩纳哥"
+    },
+    "colors": {
+      "background": "#77c5ff"
+    },
+    "music": {
+      "title": "252",
+      "artist": "Gem Club",
+      "url": "{music}/20161119/1119_conv.mp3",
+      "name": "252",
+      "nitingCode": "INVALID_1479513600000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20161119/default@2x.jpg!jpg85",
+      "small2x": "{img}/20161119/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20161119/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20161119/big.jpg!jpg85",
+      "big2x": "{img}/20161119/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20161119/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20161119/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Monaco",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAwQBAgUABv/EADIQAAIBAwEFBgUDBQAAAAAAAAECAAMEESEFIjFBYRITUXFysSMyU5GhJGLBJUJSgdH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQQDBQL/xAAmEQEAAgIBAwMEAwAAAAAAAAAAAQIDEQQSISITI4EFMVGRMjNB/9oADAMBAAIRAxEAPwDVXjEYirxgC1a7RD2QcmALNdM39yjoJ52ekLXY8x9ouoaMpWUkLwPWeiXxk6xhUg5iBlV1jCzL8FiNN0wDMtLYVaYeoSRnhylnH49bx1WR8jkTSemp5aaqMKoA6CXRWsdohBNrW7zKTTVhhlBEVqVtGrQdb2rO6yVq23d1abo272sYnNz8eMflX7Olg5E5PG33MKMkCTqEsADj+YA0F46RhFUHuW9J9oApZJ+lTrk/mdPjT7cOXyY9yTIWb7YaSFhs9B3K7i+oSTlz4fKriR5/AacQJz3REqKudRAjijjmMKVVzRYjHA+0ABYpmzpeX8zocefBzuRHuGQk32x0kJFs9A3a4pKf3CTcmfBRxv5gIDw00MgXyKwyecZGhxMYVqY7t/I+0QRs6n/T6HoluCdUR543fZoU5r1MelPdw6j6S20Exbg/vEwzz4tsEasSQajwkiwVuWIEa8dIwo2qnwIMQAtr6nb2tGm6sSEByOsuwY5tTcIs+Wtb6mBRtWj/AIPNvRt+WPr1/CRtWl9N4vRt+T9ev4Cur1LikEVWB7QOsw5GOa03LfBki1tQEm8ezjQSNYlj0gR3OkAo53G9J9oBhXVd6ZpAAEdyntOtxI3i/blcufd/QQum8B95R0ptrC78T+IdJ7Gt7jvKgXPWScyNY/lXw53k+DqHDNrOY6azNrzgRsH8wDm+XHTEA8/fqj16SLWCVBRTdfQHTx5HzlfG5lMft3/aXkcS+Tzp+mfUZqNU06wNNxyYGdWtotG694cy1ZrOpR3ueByMxkb2a4N1jHLx8pHzv6/lXwv7PhsqcFjOU6iCdYEZVusAl6gCk5gGHtrYlxcrRvbCr8cUVDUnO64A0weRmdoifu0rMx9mTabTYZtbul8hw1CsPlPTmPMTzTJlwTusvV8ePNGrQYe0o3AzZV+w/wBGswGfS/A/7xOng+p0t2ydnNzfT7V707rbNoXNO7YVqFWlhfmZTjiOc05l63xx0z/rxxKWpknqj/G2rE5PWc5e4nXSBjq/WMkVTkY8YA9RXNpQx9JfaYz3ax2Z219jWm00Arr2aqjcqpoy/wDR0McCXkLy22hsep2LpDWpH5KyAkN5+BmdsW+9XuuTX8jWw7unWvGCNwpklfDUQx1mLdyyTEx2b6NuShgp28cT+YBYPrxjCzvpxgHpdn3Fimzbfv6lEN3a6EgkaTzFTmZdU2nspOQf00o9FspU23Yqfh2JbzAENDbJ2jtKncoBTsqNHXPbUb3lnERkqdTdMZBu+TxgFqbEmMLljAgXGH0yPIwCFJJOSfvA0N5n7wCjaZOv3gFlY92YAPtGIP/Z"
+    },
+    "modifiedAt": "2016-11-08T08:36:59.761Z"
+  }
+}

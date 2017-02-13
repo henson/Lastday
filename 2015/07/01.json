@@ -1,0 +1,46 @@
+{
+  "20150701": {
+    "dateKey": "20150701",
+    "text": {
+      "comment1": "刹那宇宙拒绝永久",
+      "comment2": "香港,中国.不会为怕告别春风,而放弃过冬",
+      "short": "刹那宇宙拒绝永久,不会为怕告别春风,而放弃过冬",
+      "watchTitle": "香港回归18周年",
+      "watchBody": "还记得最经典的时代曲吗?"
+    },
+    "geo": {
+      "reverse": "香港,中国"
+    },
+    "colors": {
+      "background": "#2ab7af"
+    },
+    "music": {
+      "title": "时代曲",
+      "artist": "陈奕迅",
+      "url": "{music}/20150701/0701_conv.mp3",
+      "name": "时代曲",
+      "nitingCode": "INVALID_1435708800000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20150701/default@2x.jpg!jpg85",
+      "small2x": "{img}/20150701/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20150701/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20150701/big.jpg!jpg85",
+      "big2x": "{img}/20150701/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20150701/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20150701/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Hong_Kong",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-06-29T06:51:58.913Z"
+  }
+}

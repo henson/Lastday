@@ -1,0 +1,40 @@
+{
+  "20131123": {
+    "dateKey": "20131123",
+    "colors": {
+      "background": "#8c0632"
+    },
+    "images": {
+      "small": "{img}/20131123/default@2x.jpg!jpg85",
+      "small2x": "{img}/20131123/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20131123/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20131123/big.jpg!jpg85",
+      "big2x": "{img}/20131123/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20131123/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20131123/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "我曾是你的白色",
+      "comment2": "Kyoto,日本.纯净和忧郁,是两种最干净的情感"
+    },
+    "event": "",
+    "geo": {
+      "reverse": "Kyoto,日本"
+    },
+    "music": {
+      "title": "Lonely",
+      "artist": "Frente!",
+      "url": "{music}/20131123/1123_conv.mp3",
+      "name": "Lonely",
+      "nitingCode": "INVALID_1385164800000"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:06.763Z"
+  }
+}

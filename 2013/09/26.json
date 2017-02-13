@@ -1,0 +1,40 @@
+{
+  "20130926": {
+    "dateKey": "20130926",
+    "colors": {
+      "background": "#97c162"
+    },
+    "images": {
+      "small": "{img}/20130926/default@2x.jpg!jpg85",
+      "small2x": "{img}/20130926/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20130926/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20130926/big.jpg!jpg85",
+      "big2x": "{img}/20130926/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20130926/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20130926/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "你唱自己的歌",
+      "comment2": "Rotorua,新西兰.唱过的树花开如火,也如寂寞 "
+    },
+    "event": "",
+    "geo": {
+      "reverse": "Rotorua,新西兰"
+    },
+    "music": {
+      "title": "My Favourite Game",
+      "artist": "The Cardigans",
+      "url": "{music}/20130926/0926_conv.mp3",
+      "name": "My Favourite Game",
+      "nitingCode": "INVALID_1380153600000"
+    },
+    "timezone": {
+      "tz": "Pacific/Auckland",
+      "offset": -720
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:08.527Z"
+  }
+}

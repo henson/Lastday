@@ -1,0 +1,29 @@
+{
+  "20120815": {
+    "dateKey": "20120815",
+    "colors": {
+      "background": "#a3cfc5"
+    },
+    "images": {
+      "small": "{img}/20120815/default@2x.jpg",
+      "small2x": "{img}/20120815/default@2x.jpg",
+      "small568h2x": "{img}/20120815/default@2x.jpg",
+      "big": "{img}/20120815/big.jpg",
+      "big2x": "{img}/20120815/big@2x.jpg",
+      "big568h2x": "{img}/20120815/big@2x.jpg",
+      "big568h3x": "{img}/20120815/big@2x.jpg"
+    },
+    "text": {
+      "comment1": "印度独立日",
+      "comment2": "Rishikesh,印度.没有信仰,世界会在一瞬间消失"
+    },
+    "event": "",
+    "geo": {
+      "reverse": "Rishikesh,印度"
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2014-11-07T16:28:52.533Z"
+  }
+}

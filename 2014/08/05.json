@@ -1,0 +1,40 @@
+{
+  "20140805": {
+    "dateKey": "20140805",
+    "colors": {
+      "background": "#608dc4"
+    },
+    "images": {
+      "small": "{img}/20140805/default@2x.jpg!jpg85",
+      "small2x": "{img}/20140805/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20140805/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20140805/big.jpg!jpg85",
+      "big2x": "{img}/20140805/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20140805/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20140805/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "踏一个浪花,逛够了世界",
+      "comment2": "Rovinj,克罗地亚.是快感还是痛深海里永远看不通"
+    },
+    "event": "",
+    "geo": {
+      "reverse": "Rovinj,克罗地亚"
+    },
+    "music": {
+      "title": "Into The Sky",
+      "artist": "Howling Bells",
+      "url": "{music}/20140805/0805_conv.mp3",
+      "name": "Into The Sky",
+      "nitingCode": "INVALID_1407196800000"
+    },
+    "timezone": {
+      "tz": "Europe/Zagreb",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:09.672Z"
+  }
+}

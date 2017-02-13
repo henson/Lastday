@@ -1,0 +1,47 @@
+{
+  "20160601": {
+    "dateKey": "20160601",
+    "text": {
+      "comment1": "把地球交给孩子吧",
+      "comment2": "Hinterzarten,德国.哪怕仅只一天,让世界学会友爱",
+      "short": "把地球交给孩子吧,哪怕仅只一天,让世界学会友爱",
+      "watchTitle": "内心的阴暗面",
+      "watchBody": "和光明面一样的重要"
+    },
+    "geo": {
+      "reverse": "Hinterzarten,德国"
+    },
+    "event": "儿童节",
+    "colors": {
+      "background": "#ffbcb5"
+    },
+    "music": {
+      "title": "Prelude",
+      "artist": "Motohiko Hirami",
+      "url": "{music}/20160601/0601_conv.mp3",
+      "name": "Prelude",
+      "nitingCode": "INVALID_1464739200000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20160601/default@2x.jpg!jpg85",
+      "small2x": "{img}/20160601/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20160601/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20160601/big.jpg!jpg85",
+      "big2x": "{img}/20160601/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20160601/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20160601/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Berlin",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2016-05-30T07:58:40.584Z"
+  }
+}

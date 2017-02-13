@@ -1,0 +1,40 @@
+{
+  "20131118": {
+    "dateKey": "20131118",
+    "colors": {
+      "background": "#0b4744"
+    },
+    "images": {
+      "small": "{img}/20131118/default@2x.jpg!jpg85",
+      "small2x": "{img}/20131118/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20131118/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20131118/big.jpg!jpg85",
+      "big2x": "{img}/20131118/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20131118/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20131118/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "我愿变成一叶小舟",
+      "comment2": "Venice,意大利.小心地载你从睡梦中心归来"
+    },
+    "event": "",
+    "geo": {
+      "reverse": "Venice,意大利"
+    },
+    "music": {
+      "title": "Secrets",
+      "artist": "OneRepublic",
+      "url": "{music}/20131118/1118_conv.mp3",
+      "name": "Secrets",
+      "nitingCode": "INVALID_1384732800000"
+    },
+    "timezone": {
+      "tz": "Europe/Rome",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:06.564Z"
+  }
+}

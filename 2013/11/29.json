@@ -1,0 +1,40 @@
+{
+  "20131129": {
+    "dateKey": "20131129",
+    "colors": {
+      "background": "#48d6a6"
+    },
+    "images": {
+      "small": "{img}/20131129/default@2x.jpg!jpg85",
+      "small2x": "{img}/20131129/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20131129/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20131129/big.jpg!jpg85",
+      "big2x": "{img}/20131129/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20131129/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20131129/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "做大梦才能成大事",
+      "comment2": "New York,美国.生命的每一刻都该被认真对待"
+    },
+    "event": "",
+    "geo": {
+      "reverse": "New York,美国"
+    },
+    "music": {
+      "title": "Juxtaposed With U",
+      "artist": "Super Furry Animals",
+      "url": "{music}/20131129/1129_conv.mp3",
+      "name": "Juxtaposed With U",
+      "nitingCode": "INVALID_1385683200000"
+    },
+    "timezone": {
+      "tz": "America/New_York",
+      "offset": 300
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:06.885Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "20141006": {
+    "dateKey": "20141006",
+    "text": {
+      "comment1": "今天的天气,不适合忧愁",
+      "comment2": "Kyoto,日本.青春总有着一股豪气一派静气",
+      "short": "青春总有着一股豪气一派静气"
+    },
+    "geo": {
+      "reverse": "Kyoto,日本"
+    },
+    "colors": {
+      "background": "#14e1d5"
+    },
+    "music": {
+      "title": "おくすり 世界の森田",
+      "artist": "菅野よう子",
+      "url": "{music}/20141006/1006_conv.mp3",
+      "name": "おくすり 世界の森田",
+      "nitingCode": "INVALID_1412553600000"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20141006/video.mp4",
+      "width": 640,
+      "height": 1136,
+      "length": 12,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20141006/default@2x.jpg!jpg85",
+      "small2x": "{img}/20141006/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20141006/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20141006/big.jpg!jpg85",
+      "big2x": "{img}/20141006/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20141006/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20141006/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:19.347Z"
+  }
+}

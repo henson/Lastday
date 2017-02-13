@@ -1,0 +1,40 @@
+{
+  "20130501": {
+    "dateKey": "20130501",
+    "colors": {
+      "background": "#6e63c6"
+    },
+    "images": {
+      "small": "{img}/20130501/default@2x.jpg!jpg85",
+      "small2x": "{img}/20130501/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20130501/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20130501/big.jpg!jpg85",
+      "big2x": "{img}/20130501/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20130501/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20130501/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "我们一起加速吧",
+      "comment2": "Sao Paulo,巴西.凭着决心意志直觉,飞得更远"
+    },
+    "event": "国际劳动节",
+    "geo": {
+      "reverse": "Sao Paulo,巴西"
+    },
+    "music": {
+      "title": "Move Along",
+      "artist": "The All-American Rejects",
+      "url": "{music}/20130501/Move_Along-The_All-American_Rejects_conv.mp3",
+      "name": "Move Along",
+      "nitingCode": "INVALID_1367366400000"
+    },
+    "timezone": {
+      "tz": "America/Sao_Paulo",
+      "offset": 180
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:05.109Z"
+  }
+}

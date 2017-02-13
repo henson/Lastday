@@ -1,0 +1,40 @@
+{
+  "20140119": {
+    "dateKey": "20140119",
+    "colors": {
+      "background": "#d67260"
+    },
+    "images": {
+      "small": "{img}/20140119/default@2x.jpg!jpg85",
+      "small2x": "{img}/20140119/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20140119/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20140119/big.jpg!jpg85",
+      "big2x": "{img}/20140119/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20140119/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20140119/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "冬天的沉默断断续续",
+      "comment2": "扬州,中国.我们和自己的城市,共饮冬日寒光"
+    },
+    "event": "",
+    "geo": {
+      "reverse": "扬州,中国"
+    },
+    "music": {
+      "title": "火光",
+      "artist": "石康钧",
+      "url": "{music}/20140119/0119_conv.mp3",
+      "name": "火光",
+      "nitingCode": "INVALID_1390089600000"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:14.591Z"
+  }
+}

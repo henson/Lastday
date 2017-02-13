@@ -1,0 +1,40 @@
+{
+  "20140707": {
+    "dateKey": "20140707",
+    "colors": {
+      "background": "#48c9ff"
+    },
+    "images": {
+      "small": "{img}/20140707/default@2x.jpg!jpg85",
+      "small2x": "{img}/20140707/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20140707/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20140707/big.jpg!jpg85",
+      "big2x": "{img}/20140707/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20140707/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20140707/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "冰棍啤酒和篝火",
+      "comment2": "Mui Ne,越南.手握着手,把心直接晾在太阳下面"
+    },
+    "event": "小暑",
+    "geo": {
+      "reverse": "Mui Ne,越南"
+    },
+    "music": {
+      "title": "Best of Friends",
+      "artist": "Palma Violets",
+      "url": "{music}/20140707/0707_conv.mp3",
+      "name": "Best of Friends",
+      "nitingCode": "INVALID_1404691200000"
+    },
+    "timezone": {
+      "tz": "Asia/Ho_Chi_Minh",
+      "offset": -420
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:15.015Z"
+  }
+}

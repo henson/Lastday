@@ -1,0 +1,40 @@
+{
+  "20131119": {
+    "dateKey": "20131119",
+    "colors": {
+      "background": "#3fb790"
+    },
+    "images": {
+      "small": "{img}/20131119/default@2x.jpg!jpg85",
+      "small2x": "{img}/20131119/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20131119/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20131119/big.jpg!jpg85",
+      "big2x": "{img}/20131119/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20131119/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20131119/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "已所不欲,勿施于猫",
+      "comment2": "香港,中国.我的猫,在某一刻是一个纯粹的诗人"
+    },
+    "event": "",
+    "geo": {
+      "reverse": "香港,中国"
+    },
+    "music": {
+      "title": "饮杯茶,食个…",
+      "artist": "坏碑唇",
+      "url": "{music}/20131119/1119_conv.mp3",
+      "name": "饮杯茶,食个…",
+      "nitingCode": "INVALID_1384819200000"
+    },
+    "timezone": {
+      "tz": "Asia/Hong_Kong",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:06.654Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "20140403": {
+    "dateKey": "20140403",
+    "colors": {
+      "background": "#a0a315"
+    },
+    "images": {
+      "small": "{img}/20140403/default@2x.jpg!jpg85",
+      "small2x": "{img}/20140403/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20140403/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20140403/big.jpg!jpg85",
+      "big2x": "{img}/20140403/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20140403/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20140403/big@2x.jpg!jpg85"
+    },
+    "text": {
+      "comment1": "风景中最重要的是空气",
+      "comment2": "Stuttgart,德国.你有一个看得见风景的房间吗?"
+    },
+    "event": "",
+    "geo": {
+      "reverse": "Stuttgart,德国"
+    },
+    "music": {
+      "title": "Green Eyes",
+      "artist": "Nick Cave & the Bad Seeds",
+      "url": "{music}/20140403/0403_conv.mp3",
+      "name": "Green Eyes",
+      "nitingCode": "INVALID_1396483200000"
+    },
+    "timezone": {
+      "tz": "Europe/Berlin",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2015-04-13T10:48:08.686Z"
+  }
+}
