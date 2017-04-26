@@ -1,0 +1,56 @@
+{
+  "20170505": {
+    "dateKey": "20170505",
+    "text": {
+      "comment1": "应当赞美这残缺的世界",
+      "comment2": "Kagawa,日本.我们相聚的时光,音乐闪烁",
+      "short": "应当赞美这残缺的世界,我们相聚的时光,音乐闪烁",
+      "watchTitle": "内心的阴暗面",
+      "watchBody": "和光明面一样的重要"
+    },
+    "geo": {
+      "reverse": "Kagawa,日本"
+    },
+    "event": "立夏",
+    "colors": {
+      "background": "#74f3d1"
+    },
+    "music": {
+      "title": "赤とんぼ",
+      "artist": "ハンバート ハンバート",
+      "url": "{music}/20170505/0505_conv.mp3",
+      "name": "赤とんぼ",
+      "nitingCode": "INVALID_1493942400000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20170505/video.mp4",
+      "width": 608,
+      "height": 1080,
+      "length": 10.4,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20170505/default@2x.jpg!jpg85",
+      "small2x": "{img}/20170505/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20170505/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20170505/big.jpg!jpg85",
+      "big2x": "{img}/20170505/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20170505/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20170505/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2017-04-26T09:51:57.562Z"
+  }
+}
