@@ -2,28 +2,37 @@
   "20171110": {
     "dateKey": "20171110",
     "text": {
-      "comment1": "我的眼睛有望远镜",
-      "comment2": "Tokyo,日本.监视着远离我万米之外的心灵",
-      "short": "我的眼睛有望远镜,监视着远离我万米之外的心灵",
+      "comment1": "花钱买不到时间,花钱买不到绝活",
+      "comment2": "北京,中国.花钱可以买一点真货",
+      "short": "花钱买不到时间,买不到绝活,花钱可以买一点真货",
       "watchTitle": "",
       "watchBody": ""
     },
     "geo": {
-      "reverse": "Tokyo,日本"
+      "reverse": "北京,中国"
     },
     "colors": {
-      "background": "#ff4a61"
+      "background": "#ff71b5"
     },
     "music": {
-      "title": "Goodbye Lovers and Friends",
-      "artist": "Franz Ferdinand",
+      "title": "70 Million",
+      "artist": "Hold Your Horses",
       "url": "{music}/20171110/1110_conv.mp3",
-      "name": "Goodbye Lovers and Friends",
+      "name": "70 Million",
       "nitingCode": "INVALID_1510272000000"
     },
     "watchIcons": {
       "38": "{img}/watchIcons/nextday_default/nextday_38.png",
       "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20171110/video.mp4",
+      "width": 608,
+      "height": 1080,
+      "length": 23,
+      "orientation": "landscape"
     },
     "images": {
       "small": "{img}/20171110/default@2x.jpg!jpg85",
@@ -35,12 +44,12 @@
       "big568h3x": "{img}/20171110/big-568h@3x.jpg!jpg85"
     },
     "timezone": {
-      "tz": "Asia/Tokyo",
-      "offset": -540
+      "tz": "Asia/Shanghai",
+      "offset": -480
     },
     "thumbnail": {
-      "url": "data:image/jpeg;base64,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"
+      "url": "data:image/jpeg;base64,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"
     },
-    "modifiedAt": "2017-11-07T06:10:06.644Z"
+    "modifiedAt": "2017-11-08T11:51:09.618Z"
   }
 }
