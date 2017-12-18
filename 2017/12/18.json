@@ -1,0 +1,46 @@
+{
+  "20171218": {
+    "dateKey": "20171218",
+    "text": {
+      "comment1": "在这座城市中,陌生人和本地人",
+      "comment2": "New York,美国.都知道,将在这里展览自己",
+      "short": "陌生人和本地人都知道,我们将在这座城市展览自己",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "New York,美国"
+    },
+    "colors": {
+      "background": "#7113ff"
+    },
+    "music": {
+      "title": "New York",
+      "artist": "Paloma Faith",
+      "url": "{music}/20171218/1218_conv.mp3",
+      "name": "New York",
+      "nitingCode": "INVALID_1513555200000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20171218/default@2x.jpg!jpg85",
+      "small2x": "{img}/20171218/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20171218/default-568h@2x.jpg!jpg85",
+      "big": "",
+      "big2x": "{img}/20171218/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20171218/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20171218/big-568h@3x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "America/New_York",
+      "offset": 300
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAECAwQFBgf/xAA2EAABBAAEAwUGAwkAAAAAAAABAAIDEQQSITEFQVETIlJhcQYUMoGRkiOh4RUzQkNTYqLB0f/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/EACIRAQADAAICAgIDAAAAAAAAAAABAhESIQNREzEUIkFC0f/aAAwDAQACEQMRAD8A4OcyzyyHd7y5WleNYhjyW20ynVC7paYbMFP2RA0zE3rzQluZiANcp8xaiYsOKaTQiIodUMDMUxn8q+WqGJniAIdcR1NoYh720gfhoY81hrLb5qw1LSf3TtOgRISBHZZXaOF0Ts5RWuEuPeLasAKCwOObZDCzHXTmhgzGtkMFkckMcOLGYUNozsv5rWkwu98whZRmaNR1U0b4J4AxlyNqrCgmMVh9R2o26Kape9QAi5WjTmmhDEwXrMwWeqaH7xBRPat3KobsRhxRdKzUdU0eJj78gbGCXE0ANSVGjdNlJadCDz3CGN8fHsZGyNrcTQiaGt7jDQ+iJxbYHcf4hkmw0WMma/4XiPQ+hqlTjC+XDcXghjnnmewOGasjZHVsCABr6IZDBjcTjWRNM+JDmtdlaG5SRz5DT03UIhXhHY7GvkjwpllcAHOa0C6vevmi4rkx+KjOV+IlGUkVY0rSkOMPtLOGOjc0iXDCvhy4Nor5g6JrWKzwpgkNSYYNebexuCYc552d1OULxlo/Z2GIYOxgAZ1w8f8AzRNTFz4wGiOKbs3ZaFAbenROUHFmGGnBJPFZMx2qJnd9E5QvGVrsJC6GSOZzJS8EFzo2CtK2rVXknFzuEezvDeCMmbhHN/GrM57WkkdLrQc1OULxlki9luHQRiKLHY4Mbs1uSh/j+ac4XhKZ4rMXd2VpcRtl2H1Xhnzz9RL2R4Y9E3ibxqHPdel1evos/PPtfihTLx5jJDFI7vgF7g03Q9Oa61va1dc7VrWcQZxZ8kj5Gx26NtDMa1IBqutFcr2tWeczDpWsWjjEKh7Qwswkj3MylsYe9rCDWu1jf1tdPqMiftjd7mPpZFj43YdzqbHIHuAaBZFHS/Vea14pWe+3aIm0/SxnEXtc9kuYuPxaBx/NSvntsxf/AFbeKOpq0HiUlDs5W1t37H+tV6J8tv6y5R46/wAw8+HmqXyonp7cS7Qnc/ktcpTFE0EU0vauHfyFlg7NPJbjzWiuQzPjrM6cMUcLnShzszgAGl1jkLrrQAvyU+SZpknCItsE/C4eaJzHRNDQ2tNLF3RXX8i81yOsY+GsSnAwQx9nGXZLzG3WSVwm1rfbrFYj6XNeQCWmttlqtpjZhJjekosQ+Nvdc1t/22Suni8s1qzakTLJm8l5nU8yIA4nogZqtTqOSuRgWbmFAZiDsgeY7VqrpgDq6KxOJJWzwqdL2MzfCmwdjM3wpsJ2CW+FXYESRyCiix0UBYVDzDomoKZzJJ8ir+p2f4eu/l3lf1Tsu55/VT9V7ByV/FfqE6OzuOvhPrm/RXa+k79o6dTSz0opvUhXoMdnzzfI/ortfR2pp/iH0TYQVJ42/amwFUnjb9qbHowVJ4x9qbHoMB/jH0TYBUnjH2q7HoGWTxj7U2AZZP6g+1Nj0JKBIoRDQJA0AqBB/9k="
+    },
+    "modifiedAt": "2017-12-12T04:26:44.165Z"
+  }
+}
