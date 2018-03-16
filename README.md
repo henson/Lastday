@@ -1,3 +1,3 @@
 # Lastday
 
-http://lastday.yupae.cn/YYYY/MM/DD.json for visit
+https://henson.github.io/Lastday/YYYY/MM/DD.json for visit
