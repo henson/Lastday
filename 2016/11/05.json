@@ -5,8 +5,8 @@
       "comment1": "我的全部努力",
       "comment2": "Takamatsu,日本.不过是为了完成普通的生活",
       "short": "我的全部努力,不过是为了完成普通的生活",
-      "watchTitle": "内心的阴暗面",
-      "watchBody": "和光明面一样的重要"
+      "watchTitle": "",
+      "watchBody": ""
     },
     "geo": {
       "reverse": "Takamatsu,日本"
@@ -32,7 +32,8 @@
       "big": "{img}/20161105/big.jpg!jpg85",
       "big2x": "{img}/20161105/big@2x.jpg!jpg85",
       "big568h2x": "{img}/20161105/big-568h@2x.jpg!jpg85",
-      "big568h3x": "{img}/20161105/big-568h@3x.jpg!jpg85"
+      "big568h3x": "{img}/20161105/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20161105/big-568h@3x.jpg!jpg85"
     },
     "timezone": {
       "tz": "Asia/Tokyo",
@@ -41,6 +42,6 @@
     "thumbnail": {
       "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAwQFBgIAAf/EADQQAAIBAwMDAQcCBAcAAAAAAAECAwAEERIhMQUTQVEGFCIycYGRYbEVM1LhJENygqHB8P/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACMRAAICAgICAgMBAAAAAAAAAAABAhEDIRIxBBMiQQUyUWH/2gAMAwEAAhEDEQA/AHZkWKcRRssmoZVkXOoUxWDvSsMcM8aFWT5/hOdPnb1piE/Zkh7edl4Mm34rnzbkjfF0y52hqDYGrGM+cVPFlckdJF28kDc7k+Sa0gmiW0EDsAQfsapsVES8ukeYAMAw4psgQ6lkiJnZjkEjb6VKYiDZdYlFuVye74bPB9a0smgU3WepZKLeyMg4zg0DLHsz1m3t43glV8u+rXjbis5Rt2XGVKjX29xDOoaNwQaEh2Gk+XmgDhuKhlIzUjRyxxE5SdXznwwzuDTc0nTKWFyhyQXqEbyWlmyHGUyfwKZgY73BORIw+1aiPptAowHP4oAesbWOSZdDMOMgeTSYzY2aw29qFi8efWkArP1GSS50qWRU2OBzQMZiu58hQuvbOMb1NIpNsSeIxx5kTYMTjyPNZz30dGK49jCMklnbgsPhTbJp2ctGTjQNKinhmAP5raTpNiiraRRNlExwIh8ob5j68VxLNN/Z2PDD+FLp/R4opkfRueck7V0Qcn2YyjH6K09r24crgDwBWj0QkIw27Me4WA8YxUqVg40ch3gdnbjHP/VO09Ari7PSXC3EQAwHYbDPNRKLS0awyRb+R8s3PukQZckLg1Ji+zLwn/ERf6x+9bT/AFYofsjSWUMpkBaJlwANxXFhg27O3LNVRZUMjKSpwPSuzo5LsH1CYG3CpqzqB2HjepyvReNbE1mEUBZgeTWfKlZTVsQupElQYYjPIPPNJO5IbVRZ9PSpbdZJVYOoBOf0+1dPE5LC2mfdUwx8/ua5rNBK56VEgijjikD9xVd9W4B5OK6FYTSS0W7SzgtVUQdw7ndnJqjNMpYDKARQAGeKPQPhIOCMg8U6FZD6gPdyum7btyHdv6NtqlxTBTaKEPSrd7aC6k6qszzEZhVFxjzg81PrindF+yVVYt1X+G29gBJ0+S0unkEUZZ3XXvgsBpwRg55rRyvVGShJbsFbIY42iJBMbsuR5wTWPrRsRlub5L+2S6uHkDEOB3NQxnFa0Q3aNbBKjacnemShlj5FAwbtmEqd80rHRDvsK6CXtmNWGzEbjOeDUpqxyi2tFmDsj2dtJUNz3FKAE/ywpkP96dhRA9pEPXrmB/eys1tF2XLLkMc5JHpW2Dw8jjc5HH5H5DHCbUYuhqBSqsGcOSxJYeTUZcbxypnR4+dZockZuGYXXVLfSkmVAUhhjcGpLqjdW0S6QxXB/amI9dzCCJm5A/WkxpCUV8JlGjI+tYuaujVQJt9brc9X1vG7osQyRwDk1g5P6NUgb9UjsithHAZGnmQ62zlACNh963xPRjkWxNWVrqQWauFd2IDfNjO230r0/ElUGeV5sLmmOzQ3/TwjCLKzjVuCcEc8ceK5fKd5Lizt8HWLjJVRF6ZdTdQ6vC/czLEpb4xjOP19azRszYW3UlOVf4WHinZNCN7cyyswLL28cY81Li5FJpEtL4RzsSoEZOwI2FYvBb7NPbS6PSdVu8yPBEixSAI22+n1q1giv9I9smv4KXLjvSRdzLM+ApPFVBUtClt2zQW9oljaMYbiVHkTJZSNQ/P1q0pXSM58ati0HXWtS6wTSOhb/OYuw/8ADFOWLk7TJWXjqjLWF17hd98R68KRjOOak2G5uvNISRahf9/9qAAfxufP8sY9NVNOhUCHUZidok/5pDBPcXM3wvK2n+kbCmKkdW+UlUnxSGayDqcMkLCRBEsShkJYZYj9KafyRE0+DpWSLm5TWFt3GwGrbHgY4rRSjRDjJuyKayNjgrQB4Ic8GgAyRnPG1MDsRHnGKQDdjPJbvsqupIyh4OKLFQdoi8m0Sxq+dIDZC1L7KXQzZXEEWvuqdRABVV4xVIklNsdgKQzkDKH60wPkiBQCOTQAWAAuMgHagA7oujGKAOoCVBYcigDme5k0KRpH2pAEikZ4wzYyaAP/2Q=="
     },
-    "modifiedAt": "2016-10-28T07:20:04.354Z"
+    "modifiedAt": "2018-05-13T14:43:31.232Z"
   }
 }
