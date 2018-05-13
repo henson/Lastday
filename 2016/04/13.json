@@ -5,8 +5,8 @@
       "comment1": "一念心清净,莲花处处开",
       "comment2": "Chiang Mai,泰国.一花一净土,一土一如来",
       "short": "一念心清净,莲花处处开;一花一净土,一土一如来",
-      "watchTitle": "内心的阴暗面",
-      "watchBody": "和光明面一样的重要"
+      "watchTitle": "",
+      "watchBody": ""
     },
     "geo": {
       "reverse": "Chiang Mai,泰国"
@@ -32,7 +32,8 @@
       "big": "{img}/20160413/big.jpg!jpg85",
       "big2x": "{img}/20160413/big@2x.jpg!jpg85",
       "big568h2x": "{img}/20160413/big-568h@2x.jpg!jpg85",
-      "big568h3x": "{img}/20160413/big-568h@3x.jpg!jpg85"
+      "big568h3x": "{img}/20160413/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20160413/big-568h@3x.jpg!jpg85"
     },
     "timezone": {
       "tz": "Asia/Bangkok",
@@ -41,6 +42,6 @@
     "thumbnail": {
       "url": "data:image/jpeg;base64,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"
     },
-    "modifiedAt": "2016-04-06T10:28:39.840Z"
+    "modifiedAt": "2018-05-13T14:43:30.796Z"
   }
 }
