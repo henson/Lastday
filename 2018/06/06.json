@@ -1,0 +1,48 @@
+{
+  "20180606": {
+    "dateKey": "20180606",
+    "text": {
+      "comment1": "穿越不了世界的人们啊",
+      "comment2": "Stockholm,瑞典.星光照亮回家的路",
+      "short": "穿越不了世界的人们啊,星光照亮回家的路",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Stockholm,瑞典"
+    },
+    "event": "芒种",
+    "colors": {
+      "background": "#59d26d"
+    },
+    "music": {
+      "title": "推开世界的门",
+      "artist": "杨乃文",
+      "url": "{music}/20180606/0606_conv.mp3",
+      "name": "推开世界的门",
+      "nitingCode": "INVALID_1528243200000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20180606/default@2x.jpg!jpg85",
+      "small2x": "{img}/20180606/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20180606/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20180606/big@2x.jpg!jpg85",
+      "big2x": "{img}/20180606/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20180606/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20180606/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20180606/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Stockholm",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2018-06-05T09:29:59.426Z"
+  }
+}
