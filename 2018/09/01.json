@@ -1,0 +1,51 @@
+{
+  "20180901": {
+    "dateKey": "20180901",
+    "author": {
+      "name": "zHAN_Jc"
+    },
+    "text": {
+      "comment1": "我要开始加油",
+      "comment2": "南京,中国.不过作业就是要留到最后才有意思嘛",
+      "short": "我要开始加油,不过作业就是要留到最后才有意思嘛",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "南京,中国"
+    },
+    "event": "开学日",
+    "colors": {
+      "background": "#ff003e"
+    },
+    "music": {
+      "title": "鱼歌",
+      "artist": "厦门六中合唱团",
+      "url": "{music}/20180901/0901_conv.mp3",
+      "name": "鱼歌",
+      "nitingCode": "INVALID_1535760000000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20180901/default@2x.jpg!jpg85",
+      "small2x": "{img}/20180901/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20180901/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20180901/big@2x.jpg!jpg85",
+      "big2x": "{img}/20180901/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20180901/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20180901/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20180901/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2018-08-31T08:43:19.750Z"
+  }
+}
