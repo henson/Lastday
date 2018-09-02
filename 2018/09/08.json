@@ -1,0 +1,57 @@
+{
+  "20180908": {
+    "dateKey": "20180908",
+    "text": {
+      "comment1": "风向飘忽不定",
+      "comment2": "Niigata,日本.我们放弃彼此,放弃世间的语言",
+      "short": "风向飘忽不定,我们放弃彼此,放弃世间的语言",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Niigata,日本"
+    },
+    "event": "白露",
+    "colors": {
+      "background": "#89836d"
+    },
+    "music": {
+      "title": "Otoñal",
+      "artist": "Raúl Di Blasio",
+      "url": "{music}/20180908/0908_conv.mp3",
+      "name": "Otoñal",
+      "nitingCode": "INVALID_1536364800000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20180908/video.mp4",
+      "width": 608,
+      "height": 1080,
+      "length": 15.476,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20180908/default@2x.jpg!jpg85",
+      "small2x": "{img}/20180908/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20180908/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20180908/big@2x.jpg!jpg85",
+      "big2x": "{img}/20180908/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20180908/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20180908/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20180908/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEBQYB/8QAMRAAAgEDAwEGBQMFAQAAAAAAAQIDAAQREiExBRMiQVFhcRSBkaHBBjLRFSNCUmJy/8QAGQEBAQEBAQEAAAAAAAAAAAAAAQACAwQF/8QAIhEBAQACAgEEAwEAAAAAAAAAAAECEQMhEgQxMlEUIkFx/9oADAMBAAIRAxEAPwDsbS4VNmjBPnWg00w+/IqRnZppzgZqSa5gE4AOcDwqTAuemIGbAajSZ8sCxHu5NGkfbylcVRNKO9KrgHatzIBtpQ6DOCRUmlHeYGNqEpinD4qJ6laCVKkZ/wAc+lWwzz0+AxtqTk7b0rTNn6a0bbEb8CrQAsGkYJrUxG2dHcPENjQFNvdl3ALYoLat5kXlqif8ag5O9B2MXIZc52FWlstrgeG5q0iH1sQWUjPGaYi3j72+PlWpQ5m4VcZiYn0qZRCd0bGTtRobUx9SZdixoO1Ud7rIJb70FoW18R3VXmpKllUDU+QPeoj+MQjZSRTJVuENKSf3ke9dJj9s2uLS9YbE49zRYztXHDPcoJEjdlPDAbH51m2T3p1aIWcoIMqoi55eRB+aPKfw+NWW1rlj2bwPjwD6sfTNZuUhkXiK5C5LKMA7BW8vaqZSnVAk5YDLfat6Z2peFzErxyA6uc7YrrjZGaQz6TglfpVo7cw01pvhDjPitdOnLVdZ0KOGTo0MiopGWAyP+jXh5vnXp4/iLqVkLu0lgVO8n9yPG245H0zWeO6yOc3Afp+37BnGGy6jk+tdeWdMcbZmCmVR4GuMdahcopIVAp4NeqduKeQu2zP3fJRT7AhmiGywyt5ktinZQHq1jOdQaEeO5wazLPsVv9InjlsFaIqV3IwfUj8Vw5Pk6YeyiWQIwYAA+1YaItwRdnMq7ZwoG9dsu8dsTrJfKmqMOp/aftXF0c/1FpVuh2elu0XUAefI16OK7xcc+qlkW5C5m0KDxmZB+a3vEaqCe+sLeQpNfwhxyqK0uPmNqtxEwdFtZIZAHkZlPOd8e3jXwsvXZ42OvjG/0FEtbVV1BYezIBJ8dbfzXqx5vKS0yaH1DqAiGIra7n25iiOPvW8ct3o2sG6nvn65BewW18sIZGZTGwxjkY8a9GNsx1XO/LbpY+rqMolvdP3goJQKMH/0RXJvbkv1HfLeRdjHb3KvBMwDFdiODx7Ct8eeONv7RnLuezBFjKQXkVY183I/mq+px3qds+BBjkDECJyAdiF5rfnafFrpezKSq3EmjPCjBr52XDh9R11Vs/UZYbCzEd1KvaRucg4z3zzWrj1OhqpUv7goI3vyQDuNRyazcbv2OqJ+o7hFmOc551UeFv8AF2QX1zK0lywwQcodtvSnHc9sVTeooF6pclrx10zOdJwRzxW8rLbPEJZNDYcSFi3dxsBWZ11Bt4+W2KJtxg0T/at1s/CpviNa8Xnl9uvibPbpLb26dnkxqwO3GWzXW8l8ZqqY1KenRniMj2NE5szqlv0uMnOll9q1+RnFSj0iJQdOoZ5GOa1PVZDR/UenRyX1xKH7sjFuPMb10z57MvYSdIj0rSdnG3mKJ6n7RP8AS2BOmUVr8lN0PnxWvBp00MNj/WnR0LWcbKKu0Bi3jVoAL+pq0HhkyN8/WnS0AkHwq1RoGpF9BTq0aHHuu4FNjoIHOcgVna28BJI3I9qFsTE1AJYn5GlBH5qQQclj9qaAhj506T//2Q=="
+    },
+    "modifiedAt": "2018-09-02T05:39:08.972Z"
+  }
+}
