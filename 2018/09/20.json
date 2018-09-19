@@ -1,0 +1,56 @@
+{
+  "20180920": {
+    "dateKey": "20180920",
+    "text": {
+      "comment1": "咱们还是小孩呢",
+      "comment2": "Yokohama,日本.不必这么装模作样哈",
+      "short": "咱们还是小孩呢,不必这么装模作样哈",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Yokohama,日本"
+    },
+    "colors": {
+      "background": "#007280"
+    },
+    "music": {
+      "title": "CHA CHA CHA",
+      "artist": "一十三十一",
+      "url": "{music}/20180920/0920_conv.mp3",
+      "name": "CHA CHA CHA",
+      "nitingCode": "INVALID_1537401600000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20180920/video.mp4",
+      "width": 608,
+      "height": 1080,
+      "length": 12.266667,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20180920/default@2x.jpg!jpg85",
+      "small2x": "{img}/20180920/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20180920/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20180920/big@2x.jpg!jpg85",
+      "big2x": "{img}/20180920/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20180920/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20180920/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20180920/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2018-09-08T04:01:40.976Z"
+  }
+}
