@@ -1,0 +1,51 @@
+{
+  "20181007": {
+    "dateKey": "20181007",
+    "text": {
+      "comment1": "我所叙述的",
+      "comment2": "Niigata,日本.是我的童话,还是我的实话?",
+      "short": "我所叙述的,是我的童话,还是我的实话?",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Niigata,日本"
+    },
+    "colors": {
+      "background": "#70ff00"
+    },
+    "music": {
+      "title": "A New Definition",
+      "artist": "Jodymoon",
+      "url": "{music}/20181007/1007_conv.mp3",
+      "name": "A New Definition",
+      "nitingCode": "INVALID_1538870400000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true
+    },
+    "images": {
+      "small": "{img}/20181007/default@2x.jpg!jpg85",
+      "small2x": "{img}/20181007/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20181007/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20181007/big@2x.jpg!jpg85",
+      "big2x": "{img}/20181007/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20181007/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20181007/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20181007/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2018-09-28T07:01:32.627Z"
+  }
+}
