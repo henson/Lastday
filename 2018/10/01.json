@@ -1,0 +1,55 @@
+{
+  "20181001": {
+    "dateKey": "20181001",
+    "author": {
+      "name": "丁柏岑"
+    },
+    "text": {
+      "comment1": "探索善与恶",
+      "comment2": "大连,中国.从自己的历史中产生新的灵感与尊严",
+      "short": "探索善与恶,从自己的历史中产生新的灵感与尊严",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "大连,中国"
+    },
+    "event": "国庆节",
+    "colors": {
+      "background": "#00e345"
+    },
+    "music": {
+      "title": "少年壮志不言愁",
+      "artist": "刘欢",
+      "url": "{music}/20181001/1001_conv.mp3",
+      "name": "少年壮志不言愁",
+      "nitingCode": "INVALID_1538352000000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true
+    },
+    "images": {
+      "small": "{img}/20181001/default@2x.jpg!jpg85",
+      "small2x": "{img}/20181001/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20181001/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20181001/big@2x.jpg!jpg85",
+      "big2x": "{img}/20181001/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20181001/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20181001/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20181001/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2018-09-28T07:00:48.757Z"
+  }
+}
