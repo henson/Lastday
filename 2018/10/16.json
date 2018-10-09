@@ -1,0 +1,51 @@
+{
+  "20181016": {
+    "dateKey": "20181016",
+    "text": {
+      "comment1": "我是劳动者,发明者",
+      "comment2": "赤峰,中国.生产了全世界吃的和穿的",
+      "short": "我是劳动者,发明者,生产全世界吃的和穿的",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "赤峰,中国"
+    },
+    "colors": {
+      "background": "#ffcc66"
+    },
+    "music": {
+      "title": "故乡",
+      "artist": "李健",
+      "url": "{music}/20181016/1016_conv.mp3",
+      "name": "故乡",
+      "nitingCode": "INVALID_1539648000000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true
+    },
+    "images": {
+      "small": "{img}/20181016/default@2x.jpg!jpg85",
+      "small2x": "{img}/20181016/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20181016/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20181016/big@2x.jpg!jpg85",
+      "big2x": "{img}/20181016/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20181016/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20181016/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20181016/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAwEBAQEBAAAAAAAAAAAAAQIDBAUGAAf/xAA1EAACAQMCAgcGBAcAAAAAAAABAgMABBESITFBBQYTIlFhgRQycZGhwRUzsdEjQlJy4fDx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJhEAAgIBAwQCAgMAAAAAAAAAAAECERIDITEEE0FRFCIFFTJxkf/aAAwDAQACEQMRAD8A932a+NeZkztyYRFQyBkUEPnWsRzHEIrbsV6gexFGmbuCmHyrbhUyTRkcqyY6kIUPhTZDWPbvDMoaKRZFPNWBqViStcmpVA5U0SLbKAeQrphC/AgwFdEYtADTGFIJqU4SYRGjzxrmehJDKRMwipuEkMpn4p0df3dlMJLOZonBzkH7c6eUU+TqTdUeotuuPTKfmPFJ/dGPtSXKPDGWjpy8HYs+uszbXFrG3mjFf3o/KnHxYfhQlwztW/WW0mUZjkVvDY0f2MVzFiS/HzXDTNT9MWypqGT5Uv7OHiLJro9RujnXPWYRn+FbBvjJRXXSlxEuugSX2kcufrhegkJa24x/UxNN39SQH0mmvLMUnXHpUt3EtFHhpJ+9H7PyJ2dNHgIZCG2FNJCxZuSXnqqTReMjTFcEDjU3ErGRvgvCuN6i4Jl4zo1npAlcZqfaRTuGKe61Hf8AWqwjRKUzntdaS3eOSavCLOecib3ExOzEVVEWzPJahfyTwO4Jql7kmvQyowXdSDU3yFNllhk0DSppXErGRVI5+a/WkcCimVCT5zjA+NDAbMm0E7NkBfnTKAjmSFjLqDM655YNUp8Im35HawuVO4Iz5Gn7cvRPOPsyjUF1MpA2OSKdxROxgdQJByV3wKnTyo6HFPTUlyWSebOBjFGmSTL9pJg6mHlQaHTCO1cDDZ8QAa1GsgzO1ykKks2eR4eVFKxnCVZVsWWOcEs0cqacnURwwONUiqdkm0VtpZZoFkeJtZ2OlfCrRltuT1IpS+vA0lskMOcrk+I41DJMdwaW5lSBfxJWIVkVDxJAyaa1QKZ0VROUUI9c/rS7BplV25L6Y/asZUFgrYLZzyOrcUBrPNnSnS6QHYh1B8ztv6/ejidHfWLTO7cTSsHj7HKsCM6+NFI5MkQW7uELH2JzqOriNvrWxfslNOT2bX+HPSSXPdzRopZoWWRRl/0paGsPtbclFChsgi7fyNajWE3kp4aRQo2SORMS3SnanGrtFPpj/FVX8Sb3kdY3Tc12+NIO/wChTeLyU/OtuCl6CukDOo5ogH7zDuquPM0LDQBAx94j0FCw0OIUH/K1moBhQnI+lYxmbo+JpS7FsnG2aOW1Grex0tYEGFQ+pNALk5csJgj5A/OiKbUtEUe+flTYiqa9FhDHsCWPpWwRu4yqR2ysO0YjPAVHU2OjRd7sqY7SQYU97wqcHuWk7VMgbePh966UkcTkxfZ4RjnTKKFcmHsYx/KtGkDJgMaZ90UQWALjxFYA2Bj3mrGIzW8c+NZfbgQeFBpMZTa4DDbRwtqUyFsczmhgkN3ZM0AHG7fSiJZ8dxxBogJtnbhWAKSP9zWCfBtyMCsAOd+ArGHU7cBWMMWIXNYwMkisEDHFYwNIrAAdqwT/2Q=="
+    },
+    "modifiedAt": "2018-10-09T10:37:29.278Z"
+  }
+}
