@@ -1,0 +1,48 @@
+{
+  "20181224": {
+    "dateKey": "20181224",
+    "text": {
+      "comment1": "我祝福陌生人家里的宁静",
+      "comment2": "Bettmeralp,瑞士.祝福烤炉里的面包",
+      "short": "我祝福陌生人家里的宁静,祝福烤炉里的面包",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Bettmeralp,瑞士"
+    },
+    "event": "平安夜",
+    "colors": {
+      "background": "#ff0000"
+    },
+    "music": {
+      "title": "Silent Night",
+      "artist": "Boys Air Choir",
+      "url": "{music}/20181224/1224_conv.mp3",
+      "name": "Silent Night",
+      "nitingCode": "INVALID_1545609600000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20181224/default@2x.jpg!jpg85",
+      "small2x": "{img}/20181224/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20181224/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20181224/big@2x.jpg!jpg85",
+      "big2x": "{img}/20181224/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20181224/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20181224/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20181224/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Zurich",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2018-12-17T13:44:26.344Z"
+  }
+}
