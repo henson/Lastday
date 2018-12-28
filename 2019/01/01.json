@@ -1,0 +1,48 @@
+{
+  "20190101": {
+    "dateKey": "20190101",
+    "text": {
+      "comment1": "新年启动",
+      "comment2": "北京,中国.寻求答案的早晨来了",
+      "short": "新年启动,寻求答案的早晨来了",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "北京,中国"
+    },
+    "event": "元旦",
+    "colors": {
+      "background": "#ff1d00"
+    },
+    "music": {
+      "title": "First Light",
+      "artist": "Dustin Tebbutt",
+      "url": "{music}/20190101/0101_conv.mp3",
+      "name": "First Light",
+      "nitingCode": "INVALID_1546300800000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20190101/default@2x.jpg!jpg85",
+      "small2x": "{img}/20190101/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20190101/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20190101/big@2x.jpg!jpg85",
+      "big2x": "{img}/20190101/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20190101/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20190101/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20190101/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2018-12-28T08:29:11.891Z"
+  }
+}
