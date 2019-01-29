@@ -1,0 +1,56 @@
+{
+  "20190208": {
+    "dateKey": "20190208",
+    "text": {
+      "comment1": "风已经醒来,开始自娱自乐",
+      "comment2": "Sapporo,日本.把周围的雪吹上天",
+      "short": "风已经醒来,开始自娱自乐,把周围的雪吹上天",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Sapporo,日本"
+    },
+    "colors": {
+      "background": "#6ffa64"
+    },
+    "music": {
+      "title": "Baby Baby",
+      "artist": "Special Favorite Music",
+      "url": "{music}/20190208/0208_conv.mp3",
+      "name": "Baby Baby",
+      "nitingCode": "INVALID_1549584000000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20190208/video.mp4",
+      "width": 608,
+      "height": 1080,
+      "length": 13.066667,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20190208/default@2x.jpg!jpg85",
+      "small2x": "{img}/20190208/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20190208/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20190208/big@2x.jpg!jpg85",
+      "big2x": "{img}/20190208/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20190208/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20190208/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20190208/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2019-01-29T05:38:44.019Z"
+  }
+}
