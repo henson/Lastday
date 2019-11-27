@@ -1,0 +1,56 @@
+{
+  "20191201": {
+    "dateKey": "20191201",
+    "text": {
+      "comment1": "我等待着自己向明天开放",
+      "comment2": "Tokyo,日本.做一个有用的人",
+      "short": "我等待着自己向明天开放,做一个有用的人",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Tokyo,日本"
+    },
+    "colors": {
+      "background": "#1ed7c8"
+    },
+    "music": {
+      "title": "Wamono",
+      "artist": "HIFANA",
+      "url": "{music}/20191201/1201_conv.mp3",
+      "name": "Wamono",
+      "nitingCode": "INVALID_1575158400000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20191201/video.mp4",
+      "width": 608,
+      "height": 1080,
+      "length": 6.690017,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20191201/default@2x.jpg!jpg85",
+      "small2x": "{img}/20191201/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20191201/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20191201/big@2x.jpg!jpg85",
+      "big2x": "{img}/20191201/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20191201/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20191201/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20191201/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2019-11-27T10:41:46.327Z"
+  }
+}
