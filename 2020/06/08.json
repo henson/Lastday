@@ -1,0 +1,47 @@
+{
+  "20200608": {
+    "dateKey": "20200608",
+    "text": {
+      "comment1": "如果你不能抵达海洋",
+      "comment2": "Hawaii,美国.也要把双脚伸入小溪",
+      "short": "如果你不能抵达海洋,也要把双脚伸入小溪",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Hawaii,美国"
+    },
+    "colors": {
+      "background": "#957ee0"
+    },
+    "music": {
+      "title": "We Sleep On Borrowed Time",
+      "artist": "The Charlatans",
+      "url": "{music}/20200608/0608_conv.mp3",
+      "name": "We Sleep On Borrowed Time",
+      "nitingCode": "INVALID_1591574400000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20200608/default@2x.jpg!jpg85",
+      "small2x": "{img}/20200608/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20200608/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20200608/big@2x.jpg!jpg85",
+      "big2x": "{img}/20200608/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20200608/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20200608/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20200608/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Pacific/Honolulu",
+      "offset": 600
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2020-06-01T09:33:45.148Z"
+  }
+}
