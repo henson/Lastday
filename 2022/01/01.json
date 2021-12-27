@@ -1,0 +1,44 @@
+{
+  "20220101": {
+    "dateKey": "20220101",
+    "author": {
+      "name": "麦卡特鲵"
+    },
+    "text": {
+      "comment1": "仿佛生活又重新开始",
+      "comment2": "Budapest,匈牙利.仿佛会有光明与荣耀",
+      "short": "仿佛生活又重新开始,仿佛会有光明与荣耀",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Budapest,匈牙利"
+    },
+    "event": "元旦",
+    "colors": {
+      "background": "#58d6ff"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20220101/default@2x.jpg!jpg85",
+      "small2x": "{img}/20220101/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20220101/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20220101/big@2x.jpg!jpg85",
+      "big2x": "{img}/20220101/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20220101/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20220101/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20220101/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Budapest",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2021-12-27T04:03:46.584Z"
+  }
+}
