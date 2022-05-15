@@ -1,18 +1,32 @@
 package main
 
-import "os/exec"
-import "time"
+import (
+	"fmt"
+	"os/exec"
+	"time"
+)
 
 func main() {
-	fetchAction()
-	checkOutAction()
-	mergeAction()
-	gitAdd()
-	gitCommit()
-	gitPush()
+	//loop
+	for {
+		fetchAction()
+		checkOutAction()
+		mergeAction()
+		gitAdd()
+		gitCommit()
+		gitPush()
+
+		time.Sleep(time.Duration(24) * time.Hour)
+	}
 }
 
 func fetchAction() {
+	defer func() {
+		if r := recover(); r != nil {
+			println("Recovered for", r)
+			fetchAction()
+		}
+	}()
 	app := "git"
 	arg0 := "fetch"
 	arg1 := "upstream"
@@ -20,11 +34,12 @@ func fetchAction() {
 	out, err := cmd.Output()
 
 	if err != nil {
-		println(err.Error())
-		return
+		fmt.Println(err.Error())
+		panic(err)
+		//return
 	}
 
-	print(string(out))
+	fmt.Println(string(out))
 }
 
 func checkOutAction() {
@@ -35,11 +50,11 @@ func checkOutAction() {
 	out, err := cmd.Output()
 
 	if err != nil {
-		println(err.Error())
+		fmt.Println(err.Error())
 		return
 	}
 
-	print(string(out))
+	fmt.Println(string(out))
 }
 
 func mergeAction() {
@@ -51,11 +66,11 @@ func mergeAction() {
 	out, err := cmd.Output()
 
 	if err != nil {
-		println(err.Error())
+		fmt.Println(err.Error())
 		return
 	}
 
-	print(string(out))
+	fmt.Println(string(out))
 }
 
 func gitAdd() {
@@ -66,11 +81,11 @@ func gitAdd() {
 	out, err := cmd.Output()
 
 	if err != nil {
-		println(err.Error())
+		fmt.Println(err.Error())
 		return
 	}
 
-	print(string(out))
+	fmt.Println(string(out))
 }
 
 func gitCommit() {
@@ -82,11 +97,11 @@ func gitCommit() {
 	out, err := cmd.Output()
 
 	if err != nil {
-		println(err.Error())
+		fmt.Println(err.Error())
 		return
 	}
 
-	print(string(out))
+	fmt.Println(string(out))
 }
 
 func gitPush() {
@@ -98,9 +113,9 @@ func gitPush() {
 	out, err := cmd.Output()
 
 	if err != nil {
-		println(err.Error())
+		fmt.Println(err.Error())
 		return
 	}
 
-	print(string(out))
+	fmt.Println(string(out))
 }
