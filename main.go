@@ -1,32 +1,84 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
+	"math/rand"
+	"net/http"
+	"os"
 	"os/exec"
+	"strconv"
 	"time"
+
+	"github.com/PuerkitoBio/goquery"
 )
 
 func main() {
+	var readme, timestamp string
 	//loop
 	for {
+		timestamp = time.Now().Format("2006/01/02")
+		scrape(timestamp)
 		fetchAction()
 		checkOutAction()
 		mergeAction()
+
+		readme = "# Lastday\n\nhttps://henson.github.io/Lastday/" + timestamp + ".json for visit"
+		writeMarkDown("README", readme)
+
 		gitAdd()
 		gitCommit()
 		gitPush()
-
-		time.Sleep(time.Duration(24) * time.Hour)
+		//waiting for nextday
+		time.Sleep(time.Until(time.Now().AddDate(0, 0, 1)))
 	}
 }
 
-func fetchAction() {
+func scrape(times string) {
+	rand.Seed(time.Now().UnixNano())
 	defer func() {
 		if r := recover(); r != nil {
-			println("Recovered for", r)
-			fetchAction()
+			println("Recovered for", interface2string(r))
+			//Waiting for about 5 Minutes
+			time.Sleep(time.Duration(60*rand.Intn(5000)) * time.Millisecond)
+			scrape(times)
 		}
 	}()
+
+	// Request the HTML page.
+	res, err := http.Get("https://github.com/sanddudu/LastDay/blob/gh-pages/" + times + ".json")
+	if err != nil {
+		panic(err.Error())
+	}
+
+	defer res.Body.Close()
+	// Load the HTML document
+	doc, err := goquery.NewDocumentFromReader(res.Body)
+	if err != nil {
+		panic(err.Error())
+	}
+
+	if doc.Find("head > title").Text() == "Page not found · GitHub · GitHub" {
+		panic("Page not found")
+	}
+}
+
+func interface2string(inter interface{}) string {
+	var tempStr string
+	switch inter.(type) {
+	case string:
+		tempStr = inter.(string)
+	case float64:
+		tempStr = strconv.FormatFloat(inter.(float64), 'f', -1, 64)
+	case int64:
+		tempStr = strconv.FormatInt(inter.(int64), 10)
+	case int:
+		tempStr = strconv.Itoa(inter.(int))
+	}
+	return tempStr
+}
+
+func fetchAction() {
 	app := "git"
 	arg0 := "fetch"
 	arg1 := "upstream"
@@ -35,8 +87,7 @@ func fetchAction() {
 
 	if err != nil {
 		fmt.Println(err.Error())
-		panic(err)
-		//return
+		return
 	}
 
 	fmt.Println(string(out))
@@ -118,4 +169,24 @@ func gitPush() {
 	}
 
 	fmt.Println(string(out))
+}
+
+func writeMarkDown(fileName, content string) {
+	// open output file
+	fo, err := os.Create(fileName + ".md")
+	if err != nil {
+		panic(err)
+	}
+	// close fo on exit and check for its returned error
+	defer func() {
+		if err := fo.Close(); err != nil {
+			panic(err)
+		}
+	}()
+	// make a write buffer
+	w := bufio.NewWriter(fo)
+	if _, err := w.WriteString(content); err != nil {
+		println(err.Error())
+	}
+	w.Flush()
 }
