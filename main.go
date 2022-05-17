@@ -14,23 +14,26 @@ import (
 )
 
 func main() {
-	var readme, timestamp string
+	var readme, timeStamp string
 	//loop
 	for {
-		timestamp = time.Now().Format("2006/01/02")
-		scrape(timestamp)
+		timeStamp = time.Now().Format("2006/01/02")
+		scrape(timeStamp)
+
+		readme = "# Lastday\n\nhttps://henson.github.io/Lastday/" + timeStamp + ".json for visit"
+		writeMarkDown("README", readme)
+
 		fetchAction()
 		checkOutAction()
 		mergeAction()
 
-		readme = "# Lastday\n\nhttps://henson.github.io/Lastday/" + timestamp + ".json for visit"
-		writeMarkDown("README", readme)
-
 		gitAdd()
 		gitCommit()
 		gitPush()
+
 		//waiting for nextday
-		time.Sleep(time.Until(time.Now().AddDate(0, 0, 1)))
+		NowStamp, _ := time.ParseInLocation("2006/01/02", timeStamp, time.Local)
+		time.Sleep(time.Until(NowStamp.AddDate(0, 0, 1)))
 	}
 }
 
