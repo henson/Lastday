@@ -14,6 +14,7 @@ import (
 )
 
 func main() {
+	rand.Seed(time.Now().UnixNano())
 	var readme, timeStamp string
 	//loop
 	for {
@@ -38,7 +39,6 @@ func main() {
 }
 
 func scrape(times string) {
-	rand.Seed(time.Now().UnixNano())
 	defer func() {
 		if r := recover(); r != nil {
 			println("Recovered for", interface2string(r))
@@ -82,6 +82,14 @@ func interface2string(inter interface{}) string {
 }
 
 func fetchAction() {
+	defer func() {
+		if r := recover(); r != nil {
+			println("Recovered for", interface2string(r))
+			//Waiting for about 3 Seconds
+			time.Sleep(time.Duration(rand.Intn(3000)) * time.Millisecond)
+			fetchAction()
+		}
+	}()
 	app := "git"
 	arg0 := "fetch"
 	arg1 := "upstream"
@@ -89,8 +97,7 @@ func fetchAction() {
 	out, err := cmd.Output()
 
 	if err != nil {
-		fmt.Println(err.Error())
-		return
+		panic(err.Error())
 	}
 
 	fmt.Println(string(out))
