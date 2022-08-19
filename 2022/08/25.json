@@ -1,0 +1,40 @@
+{
+  "20220825": {
+    "dateKey": "20220825",
+    "text": {
+      "comment1": "或许未来我们会来到天气剧场",
+      "comment2": "Mount Fuji,日本.回忆下雨是一种什么样的感觉",
+      "short": "或许未来我们会回忆, 下雨是一种什么样的感觉",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Mount Fuji,日本"
+    },
+    "colors": {
+      "background": "#f6124d"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20220825/default@2x.jpg!jpg85",
+      "small2x": "{img}/20220825/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20220825/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20220825/big@2x.jpg!jpg85",
+      "big2x": "{img}/20220825/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20220825/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20220825/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20220825/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAYCAwUAAf/EADYQAAIBAgMFBgMGBwAAAAAAAAECAwARBBIhBSIxQVETFDJhcaEGgZEVM0JSwdFDYnKx4fDx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAIDAQQF/8QAIhEAAgIDAAMAAgMAAAAAAAAAAAECERIhMQMEE0FRIjJh/9oADAMBAAIRAxEAPwBcFaYdQBOCMyShALkmmjHJ0hZOlYzwQiCFY15ca9aEVGNI8ycnJ2SIp7FOVaLAjPuiI/zke3+K5fZ/DOjwflF0bHLXMXFAcK5zoPBQBsbDwueRpiNF0HrXV60d5M5vYlqja7Mmu7I46OMZoyCj1YzejIKKsaMvdx1lJ+imub2HdF/AunJwqBYUxwrnOg5RrQgHfZWAEOAiUjeYZjXTGeKo5pRydhy4UVv1YvyPe6ij6s35HndRW/Uz5GRtO32jDEP4UTOfVjYf2NJKWTHhHFEU4VoCoK5TpCtmQd4x8UfItr6U8RZaQ/ZkWwHAaU9MlaPRKnUfWimGSPe2TqPrRiwyR3aqdBaimGSFtpO8Y3FT8mkyL/SulETXwhisQ0GQKLki5pm6FoXRXOdBsfDMJfGSSfkXT51XxkvJwZlgnfVEZh5CqZxRJQZww05FxE1udGcTcJEDG6MQwII5GtyTFcWiGIl7vhpZiPu0Le1EnSCKtmVg4ymHiQ8Qtz6nU1OPCsgfEtnxDnkN0fKhmIxRUSwyfC+GmeCd4bXzAa1WMlHpOSb4M0cMWHs2JmMkhH5tPakcm+DJJdPG2nh5Q8cMo3V62HG1b85LbRmafGVySpLJZWFzYENazdPShJoHTMfbE0UsAhgvaWRUOulr3NvpTSUktixxvRVcJG8nQXploxmW7rHbO1iaSxjLWplBn+HpmjwDICihnJLOCQBbpzq8fHasjKdOieNvNISsksugBdxbroB0rq8aUVtUc823wGUZQbG19PenlsSJeke+CDcka1O9FK2VSkNjYoxwiQufU6D2rn8juVFoKoksWcsCoPxH2FKzUYmJgXGYhg7ELFZRbrxP6Ug4MtKOMmxgF2coI0ZiTXV47xOWf9gp490AOegJsf8AlUy/wTEp7GwIUKel6M97DH9FuQKmdtAoufSkc6sdRsBguZHkbxyNmPkOQ+lSjvbHf6KsZiFDPITuRiw87UsnsZIzxeNFVvGbs3qdTSjAyDWlQzGnZ8UZ2VCCozG5J+dXhOUeEpRiy8nLoB5VvTOHBDx9qAIyxNKMttwat5np/v7Uj/k6C6M/Hy9goI+8YED96ZukYtsyZHzusX4Us7/oP1+VSKIoml3+NYMj2MXcUIGMuER+6RBWIFtNfOuqFYnPK8gtCoFjxHE+dJLQ6dhOHwrSESNdVHXnSN2BZisiRkk2UakmtWjHsS9oYrtJ3mIvrlRevQUrdjRQMLxxnMbsdWPU0g6BXbM16DQuPxj1oNY5YHBGbAwMs+UFdRluaspNIg1s0IcFh4d7edurUu300nNKqJmY2UVvDBZ23tIZCgYDTh0HWls1IXkUuwlcEW8CnkOvrStlEiOIbS1YMBs2tBgevioNY9bGJbARA8tKquEWHucsbEcqAMLaM8nZs19QDalAUi7YjFt2pvlUNbqb0pRIvbhWDAExJJoNBzxoMP/Z"
+    },
+    "modifiedAt": "2022-08-19T01:24:36.909Z"
+  }
+}
