@@ -1,0 +1,43 @@
+{
+  "20230507": {
+    "dateKey": "20230507",
+    "author": {
+      "name": "DGRXC2"
+    },
+    "text": {
+      "comment1": "一盏灯如果不打开自己",
+      "comment2": "Bangkok,泰国.也看不清自己",
+      "short": "一盏灯如果不打开自己,也看不清自己",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Bangkok,泰国"
+    },
+    "colors": {
+      "background": "#4e199d"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20230507/default@2x.jpg!jpg85",
+      "small2x": "{img}/20230507/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20230507/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20230507/big@2x.jpg!jpg85",
+      "big2x": "{img}/20230507/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20230507/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20230507/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20230507/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Bangkok",
+      "offset": -420
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2023-04-30T07:31:11.233Z"
+  }
+}
