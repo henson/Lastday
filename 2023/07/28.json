@@ -1,0 +1,39 @@
+{
+  "20230728": {
+    "dateKey": "20230728",
+    "author": {
+      "name": "Dubliner"
+    },
+    "text": {
+      "comment1": "没有美好的生活",
+      "comment2": "Skopje,北马其顿.我们就应该好好生活",
+      "short": "没有美好的生活,我们就应该好好生活",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Skopje,北马其顿"
+    },
+    "colors": {
+      "background": "#c80050"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20230728/default@2x.jpg!jpg85",
+      "small2x": "{img}/20230728/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20230728/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20230728/big@2x.jpg!jpg85",
+      "big2x": "{img}/20230728/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20230728/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20230728/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20230728/iPhone-x.jpg!jpg85"
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2023-07-25T13:28:46.832Z"
+  }
+}
