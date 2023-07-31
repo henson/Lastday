@@ -1,0 +1,43 @@
+{
+  "20230809": {
+    "dateKey": "20230809",
+    "author": {
+      "name": "Yiming"
+    },
+    "text": {
+      "comment1": "让荣誉和善良受到人们尊敬",
+      "comment2": "Singapore,新加坡.让爱情为所有的人打开门",
+      "short": "让荣誉和善良受到人们尊敬,让爱情为所有人打开门",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Singapore,新加坡"
+    },
+    "colors": {
+      "background": "#11e8d1"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20230809/default@2x.jpg!jpg85",
+      "small2x": "{img}/20230809/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20230809/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20230809/big@2x.jpg!jpg85",
+      "big2x": "{img}/20230809/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20230809/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20230809/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20230809/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Singapore",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2023-07-31T09:05:23.868Z"
+  }
+}
