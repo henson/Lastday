@@ -35,6 +35,7 @@ func main() {
 		//waiting for nextday
 		NowStamp, _ := time.ParseInLocation("2006/01/02", timeStamp, time.Local)
 		time.Sleep(time.Until(NowStamp.AddDate(0, 0, 1)))
+		time.Sleep(20 * time.Minute)
 	}
 }
 
