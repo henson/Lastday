@@ -1,0 +1,43 @@
+{
+  "20230904": {
+    "dateKey": "20230904",
+    "author": {
+      "name": "MurmurS16"
+    },
+    "text": {
+      "comment1": "一场暴风雨",
+      "comment2": "西藏,中国.将使我们更接近自己在这世上想成为的样子",
+      "short": "暴风雨,将使我们更接近自己在这世上想成为的样子",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "西藏,中国"
+    },
+    "colors": {
+      "background": "#60e0e8"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20230904/default@2x.jpg!jpg85",
+      "small2x": "{img}/20230904/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20230904/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20230904/big@2x.jpg!jpg85",
+      "big2x": "{img}/20230904/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20230904/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20230904/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20230904/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Urumqi",
+      "offset": -360
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2023-08-30T01:53:44.601Z"
+  }
+}
