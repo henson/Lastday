@@ -1,0 +1,43 @@
+{
+  "20231123": {
+    "dateKey": "20231123",
+    "author": {
+      "name": "JohnLohn"
+    },
+    "text": {
+      "comment1": "千百万个人类正站在十字路口",
+      "comment2": "Innsbruck,奥地利.互相指示着哪条是正确的道路",
+      "short": "千百万人类正站在十字路口,互相指示着哪条路正确",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Innsbruck,奥地利"
+    },
+    "colors": {
+      "background": "#e2004a"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20231123/default@2x.jpg!jpg85",
+      "small2x": "{img}/20231123/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20231123/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20231123/big@2x.jpg!jpg85",
+      "big2x": "{img}/20231123/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20231123/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20231123/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20231123/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Vienna",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2023-11-13T02:29:48.028Z"
+  }
+}
