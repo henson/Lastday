@@ -1,0 +1,40 @@
+{
+  "20231129": {
+    "dateKey": "20231129",
+    "text": {
+      "comment1": "等待使健康受损",
+      "comment2": "金山岭,中国.以及爱使生活和谐",
+      "short": "等待使健康受损,以及爱使生活和谐",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "金山岭,中国"
+    },
+    "colors": {
+      "background": "#19dff1"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20231129/default@2x.jpg!jpg85",
+      "small2x": "{img}/20231129/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20231129/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20231129/big@2x.jpg!jpg85",
+      "big2x": "{img}/20231129/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20231129/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20231129/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20231129/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2023-11-13T02:29:49.398Z"
+  }
+}
