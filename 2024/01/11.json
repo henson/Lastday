@@ -1,0 +1,49 @@
+{
+  "20240111": {
+    "dateKey": "20240111",
+    "text": {
+      "comment1": "新的世界出现了",
+      "comment2": "Okinawa,日本.它永远在那儿,永远与我相关",
+      "short": "新的世界出现了,它永远在那儿,永远与我相关",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Okinawa,日本"
+    },
+    "colors": {
+      "background": "#1debed"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "video": {
+      "autoPlay": true,
+      "autoRepeat": true,
+      "url": "{video}/20240111/video.mp4",
+      "width": 498,
+      "height": 1080,
+      "length": 17.984633,
+      "orientation": "landscape"
+    },
+    "images": {
+      "small": "{img}/20240111/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240111/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240111/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240111/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240111/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240111/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240111/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240111/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2023-12-30T10:05:24.482Z"
+  }
+}
