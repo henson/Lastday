@@ -1,0 +1,41 @@
+{
+  "20240101": {
+    "dateKey": "20240101",
+    "text": {
+      "comment1": "新年好,新行星",
+      "comment2": "香港,中国.世界,家！这第一封信寄往你的新居所",
+      "short": "新年好,新行星,世界,家！",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "香港,中国"
+    },
+    "event": "元旦",
+    "colors": {
+      "background": "#f60023"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240101/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240101/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240101/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240101/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240101/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240101/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240101/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240101/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Hong_Kong",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAgMAAQQFBv/EADcQAAIBAwIEBAIHCAMAAAAAAAECAwAEERIhBRMxQSJRYXFSkQYUMlNikrEVM0JygYOi0aHB8f/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgQDBf/EACARAAIDAAICAwEAAAAAAAAAAAABAhESAyExQRNRYTL/2gAMAwEAAhEDEQA/AHc5z1zX0qRwWVzG86tGbBeZIlLSOFHrRtLyVJvwYr64inVBE2rGc7EYrn5JqXg9+OLjdk4PKLe/VnKhHBRixwACOteX6en4dmG3knGY9BHnqGK6XzQXs5lxSfoXcxPbzNE+CRjcdDW4yUlaMyi4umIJqkB1setKFkFCF8qNzlkUn1FGk/JU2vBy70R285SMkgDcHtXHyRSlSOvjk3G2NsrNruB5i/LQEKNs6jUhFydFnJRVnUtuGMml7biYjC7sGUAj5n9KkuOadUWPJFryMvphNcllJYABQT3x3rr445jTOXklqVozGtmCgKAIChCO3KheTH2VJqSlSs1FW6PPwJJe3YUnxMckmuJv2diXo9Vy44Ykt0PhjGNh1Peunhi4xv7ObllpimAztXqeQBFADQpYFAFj0qAC5VmtJlHdTtWeT+Wa4/6RyuCDVeKyjxasj+lciVySOtuotnoOU/wmu20cVMExN6fOligTEfMUsUAY/UUsUMVWH2alooeJKnRey9DEYOMVHTVBNp2ZrOw5FxLKuQpwqA7HHcke9efFHPbPXlnrpGwhq9rR49glGpaAJQ+VSwDy6tg6AhHxj8tc2z2x+k5S/H/jTYyWIQf4j+WrsYJyPxH5VdkwTkDu1NjBRgHnTYwByPamxgnJ9qbJgUvE7RgMTAZ7MpFYybsb9cgxq50WP5hUothrcRuMo6sPMMKCyGVfiH5qpDOGcXTF54xBp8KlhnJ/6/3SwaNSfeJ+YVLFF+zKfYillpk0mpaFM8mqSMcBTW9IZYxbeduif5CmkMMNbO6aTlrFlsauo6e9NoYkOXhV+dxAu341/wB1NxLiX0Z5LaaHiENm6KJ7kM6kyL4seuaikvQcX7Nw4JxD7pB/cWr8iHxsRZ2E97E8tqYnRHZCeYBuOv8A7TaGGP8A2TfrsTGP7wFNxGJHHj5uhiSFx0JB3z5Vk0mxkM8oddJXJONOnOalFUjYLi4hABljTsNab++c1KLbQu04xb26yJNdAkv1AySckkk981KKmcHi981/xqKYMoij0hWzsADknrWl0iPtno7v6TWDWcsSSTPMwKh0OgAHuM9KzRrRwvo9xKPhkc6yzSAOdkXxL6H9RWn2Yj0dUfSG3LE/WHQHsA1SjWjJNKtpp574jBxuCoz86tmcgrPbzMZIriH0XUfl1zSyZLk4zFHbmaNo+XjRpjJGT260KeYaTLFttznFWgMRlwCetQFsyFT50ABb1/5qkogfAoVAT/WLm6kkZWd3YscLgb/pUVFNFtw4scz9+iqdzUcvoqj9jUsYWZvCwHbxEmppjKGjhcOdzIPcimxkJOHQ5+2+3TemmMltYxMSNT+vSpotANYQFTpZ89smrpkyhbcOjz+8bFNDJ0F8XWsmgW8BAXuQM0Aaksck7kUASqGJySaAsRIjZCg+9AC+OcwUBRv0oAc7kf0qAwNdyaiNKbHyrVA//9k="
+    },
+    "modifiedAt": "2023-12-30T10:05:19.719Z"
+  }
+}
