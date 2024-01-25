@@ -1,0 +1,40 @@
+{
+  "20240126": {
+    "dateKey": "20240126",
+    "text": {
+      "comment1": "我们建房子不是为了留在房里",
+      "comment2": "Gifu,日本.我们爱不是为了停在爱里",
+      "short": "建房子不是为了留在房里,爱不是为了停在爱里",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Gifu,日本"
+    },
+    "colors": {
+      "background": "#20ddff"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240126/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240126/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240126/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240126/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240126/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240126/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240126/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240126/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-01-22T07:16:01.294Z"
+  }
+}
