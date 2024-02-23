@@ -1,0 +1,40 @@
+{
+  "20240304": {
+    "dateKey": "20240304",
+    "text": {
+      "comment1": "太阳在天庭歌唱",
+      "comment2": "大同,中国.这位唯一的歌手,嗓音宏亮",
+      "short": "太阳在天庭歌唱,这位唯一的歌手,嗓音宏亮",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "大同,中国"
+    },
+    "colors": {
+      "background": "#1ad8ef"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240304/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240304/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240304/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240304/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240304/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240304/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240304/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240304/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-02-23T06:47:42.359Z"
+  }
+}
