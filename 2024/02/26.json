@@ -1,0 +1,40 @@
+{
+  "20240226": {
+    "dateKey": "20240226",
+    "text": {
+      "comment1": "有时也举杯祝愿,寻找到虚度了的岁月",
+      "comment2": "New York,美国.与其它岁月的界限",
+      "short": "是否寻找到虚度了的岁月,与其它岁月的界限",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "New York,美国"
+    },
+    "colors": {
+      "background": "#d4002d"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240226/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240226/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240226/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240226/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240226/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240226/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240226/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240226/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "America/New_York",
+      "offset": 300
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-02-23T06:47:40.516Z"
+  }
+}
