@@ -1,3 +1,3 @@
 # Lastday
 
-https://henson.github.io/Lastday/2024/03/08.json for visit
+https://henson.github.io/Lastday/2024/03/09.json for visit
