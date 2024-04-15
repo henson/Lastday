@@ -1,0 +1,43 @@
+{
+  "20240416": {
+    "dateKey": "20240416",
+    "author": {
+      "name": "麦卡特鲵"
+    },
+    "text": {
+      "comment1": "不存在有任何东西有待我去假设",
+      "comment2": "Copenhagen,丹麦.",
+      "short": "不存在有任何东西,有待我去假设",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Copenhagen,丹麦"
+    },
+    "colors": {
+      "background": "#ef0a2b"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240416/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240416/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240416/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240416/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240416/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240416/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240416/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240416/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Copenhagen",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-04-15T08:48:55.894Z"
+  }
+}
