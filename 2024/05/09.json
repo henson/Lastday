@@ -1,0 +1,43 @@
+{
+  "20240509": {
+    "dateKey": "20240509",
+    "author": {
+      "name": "Chris"
+    },
+    "text": {
+      "comment1": "晚星带回了",
+      "comment2": "Bukhara,乌兹别克斯坦.曙光散布出去的一切",
+      "short": "晚星带回了,曙光散布出去的一切",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Bukhara,乌兹别克斯坦"
+    },
+    "colors": {
+      "background": "#4200d7"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240509/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240509/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240509/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240509/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240509/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240509/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240509/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240509/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Samarkand",
+      "offset": -300
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAQIDBAAGBf/EADcQAAIBAwEDCQUHBQAAAAAAAAECEQADBCEFEjETIjJBUWFxgZEUFUJDUgZTYpLR4fEjcoKxwf/EABgBAQEBAQEAAAAAAAAAAAAAAAEAAgME/8QAIREBAAIBBAMBAQEAAAAAAAAAAAERAgMSEyExUWEEQSL/2gAMAwEAAhEDEQA/APcjaOC3DJt+tY25emje2YvVftnwNVSU7mfjqDz5qqVTM+1bPUyDxatbZXTPc2zbT40bwBpjCVcM1zbzDoWQ3eTFbjTZ3M7bcyjwt2h608cDdLM+184npqO4CtRhiN0tPunILQGtnwcVx5sXTjlddituy95gexUJrPO1xufZKWxq2S5/Db/eqNa1xpLs4N8jK81A/wC08v2BsPa2aJ52HcP91wCidX6Yw+NNvZ9odLFQDvaaxOrPtqMIUXEsLwxrNHJPs7INyYHC1ZHl+1G9bXxF2vkKdOS/IK68OLHJJvfWX9aD/EVcOJ5Jd75zD8xfyirhwG+Q97ZZ+eB5Crix9HdPs67VvRzsgeSiszpR6ajL6I2uY510nwWji+HfCbbYufCQ3iIpjRHJ6Qba98nQgVqNHEckvkLmWWErdQjxrs42PtdqJ5VPWpW72m394vrUrBsq2ONxR51K3HJT7xfWpWU5KR019alZTkJ9a+tKspyE+tfWkW8o1w73MJis36Bd9h/NZ3JwuXI6Wk8KNydyl14Rd4mYABmapyNGTJuoGUsdRGvVTGQoTkZBn+ppMcaNwVW9cVHJtqY0ksauSLoXF0mcp+2K3bVIEiO+sdkeAVjB8aBT0OHhZxysSxbtYpvMrBd64oHXzWPUdOHfXmy0oyu58uGX590TF+U/svctY21w+Qigm6qKzRCGSTr1aUfo051MdkS9mnO3tm2q9q99oXv4lsPauZBNsNoGgjjToYTGjGE+aZ1/9XX9PnXb1y3mXVtWADdUOyuDvGBovb206ehGNXPh5NP8+2rnww3cvI5VjcZWLCDA0rrGlhEVDpGljEVCG6hRSLomNQViP1rq6JNJ4a0EzEQAKqRhfcQd7UGfOqkAubr7yyG4zNVIoYTMkRUhBMEBtJmKQIMiDQSHjwqQnmmJFPhB19VCcB3ipKIilOAJrUQCAAEyq0EZ7hVaoyiTVEIW3QYOta6ZcVtHXng94iiYgwYWbZTeD6zETJrLVdByaARvNPhUqKDuCBTdASgIJnd7AeuhBupHT1EaVIUCgky3pTCaQ9gjnIx8q1cBkFz8I4QZ1rPbUSJyICrbQBQNe0ntqiZXQ2Mu5bZWhSyyASsnr/U0dK5afaLPwgagTIA1rcZ1/BV/0jZdoOQqbwBgGIkeFG8UNzJR4CoDI1JGoouzSKXOfD2wFJ4gcKDDQ1tXiWWAIHOj/VZ7antEJpEV2pzdyQjhVUJ253UI2nWBWSCANcK7nDWhL7m6OgY8Ku0ZVB/iqyeyN5CSAIYgeFFpmrqyNBdJ7agEa1It641lV5MxJ1rPgl3i2WikmJ7aE3LbA6z60S1CiCBpWS//2Q=="
+    },
+    "modifiedAt": "2024-04-27T07:20:37.227Z"
+  }
+}
