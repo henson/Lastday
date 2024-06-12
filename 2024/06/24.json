@@ -1,0 +1,40 @@
+{
+  "20240624": {
+    "dateKey": "20240624",
+    "text": {
+      "comment1": "一半爱着自己",
+      "comment2": "Tokyo,日本.一半爱着被湮灭的感觉",
+      "short": "一半爱着自己,一半爱着被湮灭的感觉",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Tokyo,日本"
+    },
+    "colors": {
+      "background": "#240bdc"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240624/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240624/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240624/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240624/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240624/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240624/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240624/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240624/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAwUEBgECBwD/xAA1EAABAwIEBAQEBAcBAAAAAAABAgMEABEFEiExBhNBURQiYXEykaHBQlKBsRUWI1NyktHh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAIBEBAQACAgIDAQEAAAAAAAAAAAECESExAxITIjJBYf/aAAwDAQACEQMRAD8A58jyKzWB9xQGoAoDNhQBI8d2S8lmO0t11ZslCE3J/SgHw4J4hUzzP4flHZTqAflegiOXClQXizNjuMrB2WN/Y9aDBFAeNAaEki1AZB0t2oDINyANzQDSDMVHPJiucnNotwaFXue3pU0LK9AdHDaZvjypxRIycwio2FUcxKQpoxpCi4wTcgjUeoPernBoKvKoi9x0PeqJrm1oBinBZR6poAiMAkEfGPlTCRG4eWZDQccOUqsbdqnLibEM8U4ZDbSXoCPOkXU0DuPT1rmx83Osmlw43EF15QhpTn/p2y+x61qgFeCvOsodUopzjMkW6etR8sl0qY8CYdgYeS4JCTmQqwI2ItW2N3OEWaTf5dj/AJDVBYUYfp8NMh0YfptTDduCEuIURsb/AENZ+T808e28lIzDzZR1PYV51dMVeXhfMnOBawlKlhShpY/a9bY+XURceTpuSxKZSkoGYKCDpa2tqym1GEbDkpBKRua7/F+WGXY5gDtWiTHwycu1AeDIttQA5SA1Edcy3yJKrD0qc5vGnj2qUyfz4aH0m6Ta9vXT71wevOm++A46kSmC5yinVtZB11N7n60pNWw/5C12alDyG0KBKnUnt3J+1XhjuFa6Lhqc8RDihqrWuvx/ljl2lFAqyDDgIpk8FigMkpUkpULgixHeg3MZrrMByTCbdS4hLiuUUm4Iv9jXJn477NcbwXsyW0Rni/LeQRo02jqT37D61XrzxBtpCHjcRQkWsDoSevU0X647LuuuQ7NQ2W+qUC/vW+M1jIi3dELwpkXtv6b0yED3rQApbw5BSXQ3n8tybH1tWflz9YvGbc9xrBm4K1KjyG+WTmCFK1B9O4NYY+Tfa/XXSI9hLgwzxBlwyskEMpdBc3ta31qpnNlq6TuGcOackNq5mZSH0hdu1if/ACi5e2Un8GtR0FUoJzX6C59q2yzmPaJLemqXwoZgdDVEVNP6b0ySEPE6Cg1R4sxdSp6I7Z0YR3/ETe/yFYfq7aSahjB4abkRxMxia6HSnOW0gZUJ38yjsf2rmy82M+uMaTC90mXhcOTiL6oK0iMlSAgBRUTdQG53/Sn814lmh6TmyrAhAiyZryEhI5iLAC3Qa1ON+0KzihP4nJcdzKKQU6aCu7LGZdsZbHl4tMUdXAPZNVskNqTNOwHypgzwx97xYEkgIUMoPqay82/RWPY+KYfHlkB5lDhJskkaj9a4plZ027IuJmMQB0fcUwr8A2Fu4rTxTCJyyyBwNtbTSFrWFJW4koselyPtS8urkePSfiEwqL6NhmSP2pY48yi3hHvfXvrXcxYoDLcuw2pkL4srGRN8x+G29+lKzc1Tl0dKkqadQJCMqknIrW9ifWvPyxuNsreXaJjGIMeGUU2zcq4Ch1JIp4S2i9FEFxTzTTLbNhGWFKIO6b3v9aeepd29iIUxxR8QQbnPv8q0x/iacSITsRLAdynmsocSU9iL/OumMgMtMF4Xp0pksHCTENyQ9ImIU6GwEoQNrnqaVORYuTh2ZZTGFlm6vKBf3G16xywmXbSXTUQcIJ80BB0t8I/7S+KH7VuIuGISUsQw1cWJSALioy8GORzOxDj4Lhcd4uoYWsk3s4Qoa+hqvj/0tscUSGXMPjqUjKtpeUKuNQRt9K2jOxWPEM/nT/tVEVA0yWPhQ+WUP8fvU5KxWEa1KxCLUEzvQGBpoKRkXGQBwUX/ALyfvVY9py6UgNpq0v/Z"
+    },
+    "modifiedAt": "2024-06-12T09:37:51.702Z"
+  }
+}
