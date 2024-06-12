@@ -1,0 +1,41 @@
+{
+  "20240621": {
+    "dateKey": "20240621",
+    "text": {
+      "comment1": "赞美六月漫长的白天",
+      "comment2": "Lucerne,瑞士.野草莓、一滴滴红葡萄酒",
+      "short": "赞美六月漫长的白天,草莓,一滴滴红葡萄酒",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Lucerne,瑞士"
+    },
+    "event": "夏至",
+    "colors": {
+      "background": "#f00c32"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240621/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240621/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240621/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240621/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240621/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240621/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240621/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240621/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Zurich",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAwEBAQEBAAAAAAAAAAAAAwUGBAIHAAH/xAA2EAABAwIDBQUGBQUAAAAAAAABAAIRAyEEEjEFBkFRcRMyYaGxFSIjgZHBBxQlQtEmM1JT8P/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAIBEBAAIDAQADAAMAAAAAAAAAAAECESExAyIyQRJCYf/aAAwDAQACEQMRAD8AvK7QIJBhup5q4lMw+pkdnmcdLCUp6ccR+/JaNhtYIB/MDqbErWvWcvPmQKgJBIHAKrcELvcsf0+0xrWqH0WUKO3C3zQAXTcBACcyTyPFAU1d+VrS4dPFKIVMvjSa6nDR4pZGEZ+INLJgsKc5M1TI+S189otpBZffM8NVc8KHoG6TQ3YjQ3QVHR5LGJ0o3ItCAC7WelkAMwLOgoB5jJLA8G2kck69E8HZVY6jm0gKMbVnSJ3uqDF4nsD3WU4nxN/4XT51xDG9tot9ItqFp4iClMHC53SI9ihgJJbUcDPyKymMLg4dokAnFABdLjpp4oChDHZnNLZDhcJ5jAxOXFWKVJ9IOmB9Eo3OTnUITaL+12jWcTYuI+lvsun+rnnqdxdsSeAN/JK66q7c45tkPcJymsY+gWNlwduNlIAeePggwc7OKCVDg7IRxHHwUwt+Pph7Qw6nWEZxsPN8W0tr1WkyQ9w812RxzT0lxbYh0+Cn0XRW7nAN2IBMjtX/AGWEtINqlUNqMpnNmfOW1ra3SzvBBvJvIsUwGHTeYue91SCleyoymAw5mmyWluS7LWBBu2ASUfg/UBjhlrVw4QQ90jlddccc09JMU6KT4bJ9Fn68XVS7m22EIB/vP+yyjizp+gtMcUEDUEgiZPogM1UuYG5RPkgLWRlvFlm1YMTLXF0z7wKuqJQ23HtdtDE5DY1Cumv1hjPZIq5+E8GYj6pXjWVVVO54/QWcPiv9Vg0N6jZIEoLABABN9fTRAZ6rCQANAT9kFhV42oG0wJgH7Kaw0liq1S/DNfrNhCuIxKZnSJ25Upv2pXNOMgdHUjXzW9c4ZT0mrAflnuOoFlPpw6qrdC2waYP+x/qsI40Najrt62KCZnlreZN+KA5c4g2AIjnF0Ayx2NNRjg79psrpXAtLDWxxp7Ef70HOQ3qr/j805+KOxDwYcCeZWqIZ6j/guESBaAsfSdSqvVNui/8AQmxwqv8AVYxxobvdIjkmAKjoba51AKAG50mYmeiQasWYY4kd7Rb16mSXaWQYOmAXdoC4+EfytI7KLcID3gHG036Jz/hQBiKga1wERBIXP6R8V16pN0XD2E2DbtX+qiOLNnuFuaCAqEhveuBe0XQHMktHdJCRme0mBuGDxzha+c7Fo0n9rPYzBMbPxc8xH7Y/kLWvWckdUtLB/lxR+kx4vIZk5mxAj/uayv8ASVV6pd1vc2JSERL3nzWdeLNHOtZBAPccroInggB54iSNEgo9tMaMG0gAXCrz6q/EVtsluLeJ7ryB0XTX6sZ6UFxg3RIAqAGm4HjKy9fqqvVHu2T7FoieLvVZV4sxcTBTIN2hPGJSDO67o8EE/9k="
+    },
+    "modifiedAt": "2024-06-12T09:37:51.025Z"
+  }
+}
