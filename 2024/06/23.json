@@ -1,0 +1,43 @@
+{
+  "20240623": {
+    "dateKey": "20240623",
+    "author": {
+      "name": "einWingKy"
+    },
+    "text": {
+      "comment1": "一个朋友",
+      "comment2": "Himara,阿尔巴尼亚.有时是沙漠,有时是水",
+      "short": "一个朋友,有时是沙漠,有时是水",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Himara,阿尔巴尼亚"
+    },
+    "colors": {
+      "background": "#ff2b6c"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240623/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240623/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240623/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240623/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240623/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240623/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240623/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240623/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Tirane",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-06-12T09:37:51.489Z"
+  }
+}
