@@ -1,0 +1,41 @@
+{
+  "20240807": {
+    "dateKey": "20240807",
+    "text": {
+      "comment1": "夏天的早晨真舒服",
+      "comment2": "北京,中国.写大字一张,读古文一篇",
+      "short": "夏天的早晨真舒服,写大字一张,读古文一篇",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "北京,中国"
+    },
+    "event": "立秋",
+    "colors": {
+      "background": "#0cdfdc"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240807/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240807/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240807/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240807/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240807/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240807/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240807/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240807/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-07-30T08:57:24.938Z"
+  }
+}
