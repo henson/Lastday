@@ -1,0 +1,40 @@
+{
+  "20240801": {
+    "dateKey": "20240801",
+    "text": {
+      "comment1": "岁月广阔",
+      "comment2": "Luzern,瑞士.让人想立即投入工作,又想安然休息",
+      "short": "岁月广阔,让人想立即投入工作,又想安然休息",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Luzern,瑞士"
+    },
+    "colors": {
+      "background": "#f10c22"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240801/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240801/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240801/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240801/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240801/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240801/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240801/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240801/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Zurich",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-07-30T08:57:23.642Z"
+  }
+}
