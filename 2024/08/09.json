@@ -1,0 +1,43 @@
+{
+  "20240809": {
+    "dateKey": "20240809",
+    "author": {
+      "name": "MarjorieLee"
+    },
+    "text": {
+      "comment1": "恋爱过的地方下着雨",
+      "comment2": "Singapore,新加坡.这雨就是我的故乡",
+      "short": "恋爱过的地方下着雨,这雨就是我的故乡",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Singapore,新加坡"
+    },
+    "colors": {
+      "background": "#2f4cf0"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240809/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240809/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240809/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240809/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240809/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240809/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240809/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240809/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Singapore",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-07-30T08:57:25.379Z"
+  }
+}
