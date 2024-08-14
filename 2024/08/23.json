@@ -1,0 +1,43 @@
+{
+  "20240823": {
+    "dateKey": "20240823",
+    "author": {
+      "name": "Chris"
+    },
+    "text": {
+      "comment1": "我们的日子,有时过得那么飘零",
+      "comment2": "Samarkand,乌兹别克斯坦.有时过得那么丰盈",
+      "short": "我们的日子,有时那么飘零,有时那么丰盈",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Samarkand,乌兹别克斯坦"
+    },
+    "colors": {
+      "background": "#ffdc1a"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240823/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240823/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240823/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240823/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240823/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240823/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240823/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240823/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Samarkand",
+      "offset": -300
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-08-14T09:39:58.048Z"
+  }
+}
