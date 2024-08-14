@@ -1,0 +1,40 @@
+{
+  "20240826": {
+    "dateKey": "20240826",
+    "text": {
+      "comment1": "这夏末的光",
+      "comment2": "北京,中国.是另一种光的影子,让人着迷",
+      "short": "这夏末的光,是另一种光的影子,让人着迷",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "北京,中国"
+    },
+    "colors": {
+      "background": "#ffc8cd"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240826/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240826/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240826/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240826/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240826/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240826/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240826/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240826/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAwQFBgIBAP/EADMQAAIBBAEDAgQEBAcAAAAAAAECAwAEESESBTFBE1EiYXGBFDJCkRUj0eEkM1KhscHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAfEQEBAAICAwEBAQAAAAAAAAAAAQIRITEDEkFRMkL/2gAMAwEAAhEDEQA/AMvChfedA7rG0huPwOAVyKAZvLC5sQEuLdQOXEnOckD+/iqpQkrRiRc/CexB1ijRvmLI4J7ZzqlA9k+O6iLHPLHf2zSnEojQR8hCAxAIkKggZzs965bOQWtZZ/wqsmSxZuTEDe60ywlo2m28RCBm4hWYAg57arS5cg1MsTdUhiiQKJJFzjtjlrv8qXtvG5CHes3YvOtk+mERTjHj60/b2myFnMV1LCtzEkgMaqSRgjCt9/P+1PHPgIk1i6xGSIlkXfDOwPcUTOW6pl7TMl5AjNoOo34GarLjG02yk9GCzVA6GdrssoI0Fwd/TdYTLG47iU2C2kWMqgDYYgj2rPLyTZg3kLRu87J8AdVlHgjvqnhluagKswk61GQQApXBzrQrWTXjodTuz9QeTTcsEHHiiTWOiUbdVdllY4OCufGcVnfwF2f0pE4kcQcbq5NhKvYRBeepEB6bHknsQD/77Vrhd46p7V5rkenHcmM8WAI9vNc0w/yHlj1KKMSs5BLvnZ3V5eD21ycVbuGJopVbMmWB49hvX9a58Nzkqy0MTN1FIlJzy46Htqu7esdg/bqDern4t4IrPP8AkjN8yRfDHgDHLGfep8Ut5opSdDJiOMg8xrfYea2xmiD6qGNpAxTiUAB/b+1PGT4qObJ/xVtDbMf8tyD9DUZY6vsB5emW6H80n7itC2cgeUuN5GQuz7Vy2SQJpBtuqRTflCyBj8t1v/WGlRSv5o4Zi6njKjHAWP8AN96zwx9seek/Uu5vXmC8VYHGGJA3W8xkMKC6niYyKxDHGGwNAUagji4uZpywd2ZDg48GiSQPLSUwTqyDBJA153RZL2FiWclsocA/KhLRSW9jAuVeJCoBZWgYg57e2Kznjn1emf6rCk8qvAqDIwwU439zV446mgqw23TZLGKWSD/FekMv6v6h8vNObnBcFbv4gsEaBmfbdhhfO/n2rRDoB20LPJ9gVNLR9gXHxRSp+F3xIOChwcfI0CyzihyPCIY2Kp8QB/KPalQl3E6NJmIAqfcA0g0k/XLS5Y+paTSu2M+tcaPHtpQKm2RVqR1Fnu3eRIwkZcsET9NEylqd0/07rEdlYNA1uXVoiiF2yFY+cUY46uz3srBejkzFS0r40B48Yq5l+kPNLemIGGOSONiVdwhJBxqlnrXLXw3LG8FzbtZSLM8qZm28aKFX7Clhl7H5MdF1nVrZU45Ka2ParrL6DJ6fLYQ+x4f0qFactzEZLE5G8UesQ4jmkYMMkYpSaOvWV2XS/wAsHZHYVUgit0S/NrctGsJkM2AMDefH2pZS64XjdNWSbu2Q4BL4z/3Wfc00n6xt7b8b6WFDIURuKlyP+a2x6ZZXkuLKcO0a73kd90yB4SIzARef1VJhuf5Y5uxb9Iz2FT2l8mQ+VbicDO85pmZXIgMmSVLFTx3j60dEodEsgZZZfU4HjxQ8vJ/tT7isN7W7e4lt2VJTgk985z51WHM7dHCZ1S0kW4luWXMbnnoZwD5Nb434xyn0gZ8IODkD2HmqQNDPGkePWbv5NGwhsjs5KBiudbzUyAaOFBNEzyKyEjPHvjzRotrV3N02OGUdOideSGJkc5DL2D/XPf61XBQ70hobaGCGRTnBYk+SRv8Aapyvxtjje1KRVeGUsAdHH18VnfxcDDTrbqgctIB8SlQeI/00t64hzHfNQ+s2whWGeEH0ZR2KBSp9q1lY2aSUOjxGBn3pkeFlC0bLG7xMdZBzinoiIs5be4wOBOMgt+V/lSkFUI7QJNHIiaUZcN3Y+30zRJ+kfF1GWYSQuYymOGsZzmlq720lhv8AHJ6JUK+DWVaSwlL1yaACMQLxYBeXI6xRJ7FbobqLfxCzRnkKqCG0KeFu+RnJ68FIOnWJhGWVvm+zWu2RaPIj5ZJJ3ugO3JJQ9iCcGmHYZgAQaCMMFKZKjOKndVp4p2q4GCDWdqoUuVUggjIx2pQzHR2MsXpPtSQMfeqvYn8lJ55I55I1IIRyoyo7A1VTp//Z"
+    },
+    "modifiedAt": "2024-08-14T09:39:58.726Z"
+  }
+}
