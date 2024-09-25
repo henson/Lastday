@@ -1,0 +1,43 @@
+{
+  "20240926": {
+    "dateKey": "20240926",
+    "author": {
+      "name": "麦卡特鲵"
+    },
+    "text": {
+      "comment1": "减少需求,拥有尽可能少的东西",
+      "comment2": "Hobbiton,新西兰.以保持真正的自由",
+      "short": "拥有尽可能少的东西,以保持真正的自由",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Hobbiton,新西兰"
+    },
+    "colors": {
+      "background": "#ff0f34"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20240926/default@2x.jpg!jpg85",
+      "small2x": "{img}/20240926/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20240926/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20240926/big@2x.jpg!jpg85",
+      "big2x": "{img}/20240926/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20240926/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20240926/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20240926/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Pacific/Auckland",
+      "offset": -720
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-09-21T04:08:29.831Z"
+  }
+}
