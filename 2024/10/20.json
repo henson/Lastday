@@ -1,0 +1,43 @@
+{
+  "20241020": {
+    "dateKey": "20241020",
+    "author": {
+      "name": "米兰达"
+    },
+    "text": {
+      "comment1": "人们必须有一个隐蔽所",
+      "comment2": "Magdeburg,德国.一个家,寻找自己",
+      "short": "人们必须有一个隐蔽所,一个家",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Magdeburg,德国"
+    },
+    "colors": {
+      "background": "#00c8ef"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241020/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241020/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241020/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241020/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241020/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241020/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241020/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241020/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Berlin",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-10-14T11:07:41.706Z"
+  }
+}
