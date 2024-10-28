@@ -1,0 +1,43 @@
+{
+  "20241104": {
+    "dateKey": "20241104",
+    "author": {
+      "name": "Chris"
+    },
+    "text": {
+      "comment1": "我们以前住过的地方",
+      "comment2": "Khiva,乌兹别克斯坦.早已从地球上消失了",
+      "short": "我们以前住过的地方,早已从地球上消失了",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Khiva,乌兹别克斯坦"
+    },
+    "colors": {
+      "background": "#ff0932"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241104/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241104/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241104/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241104/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241104/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241104/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241104/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241104/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tashkent",
+      "offset": -300
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-10-28T02:26:01.335Z"
+  }
+}
