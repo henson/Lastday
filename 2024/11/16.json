@@ -1,0 +1,43 @@
+{
+  "20241116": {
+    "dateKey": "20241116",
+    "author": {
+      "name": "Estelleliu"
+    },
+    "text": {
+      "comment1": "固定为一个人是不可能的",
+      "comment2": "Singapore,新加坡.知道自己是谁是不可能的",
+      "short": "固定为一个人是不可能的,知道自己是谁是不可能的",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Singapore,新加坡"
+    },
+    "colors": {
+      "background": "#22f1d1"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241116/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241116/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241116/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241116/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241116/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241116/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241116/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241116/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Singapore",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-11-09T08:16:35.853Z"
+  }
+}
