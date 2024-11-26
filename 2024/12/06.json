@@ -1,0 +1,44 @@
+{
+  "20241206": {
+    "dateKey": "20241206",
+    "author": {
+      "name": "此去经年afra"
+    },
+    "text": {
+      "comment1": "我的一切",
+      "comment2": "Hokkaido,日本.时而落雪,时而闪光,却从未有人居住",
+      "short": "我的一切时而落雪,时而闪光,却从未有人居住",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Hokkaido,日本"
+    },
+    "event": "大雪",
+    "colors": {
+      "background": "#FF0000"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241206/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241206/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241206/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241206/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241206/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241206/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241206/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241206/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-11-26T06:16:05.788Z"
+  }
+}
