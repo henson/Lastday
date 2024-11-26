@@ -1,0 +1,40 @@
+{
+  "20241207": {
+    "dateKey": "20241207",
+    "text": {
+      "comment1": "留下来,叶子",
+      "comment2": "北京,中国.它变红,为我和它自己感到难为情",
+      "short": "留下来,叶子；它变红,为自己感到难为情",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "北京,中国"
+    },
+    "colors": {
+      "background": "#F7AE11"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241207/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241207/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241207/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241207/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241207/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241207/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241207/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241207/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-11-26T06:16:05.957Z"
+  }
+}
