@@ -1,0 +1,43 @@
+{
+  "20241228": {
+    "dateKey": "20241228",
+    "author": {
+      "name": "Estelleliu"
+    },
+    "text": {
+      "comment1": "学细雨走路,拜会低语的树叶",
+      "comment2": "Kampong Glam,新加坡.听教堂钟声",
+      "short": "学细雨走路,拜会低语的树叶,听教堂钟声",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Kampong Glam,新加坡"
+    },
+    "colors": {
+      "background": "#91D500"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241228/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241228/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241228/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241228/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241228/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241228/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241228/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241228/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Singapore",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-12-20T09:31:39.537Z"
+  }
+}
