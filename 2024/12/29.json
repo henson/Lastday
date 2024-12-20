@@ -1,0 +1,43 @@
+{
+  "20241229": {
+    "dateKey": "20241229",
+    "author": {
+      "name": "Seychellesblue"
+    },
+    "text": {
+      "comment1": "我们醒来,神清目明",
+      "comment2": "Gold Coast,澳大利亚.不再焦渴急切",
+      "short": "我们醒来,神清目明,不再焦渴急切",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Gold Coast,澳大利亚"
+    },
+    "colors": {
+      "background": "#FF33A7"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241229/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241229/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241229/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241229/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241229/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241229/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241229/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241229/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Australia/Brisbane",
+      "offset": -600
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2024-12-20T09:31:39.809Z"
+  }
+}
