@@ -1,0 +1,43 @@
+{
+  "20241223": {
+    "dateKey": "20241223",
+    "author": {
+      "name": "米兰达"
+    },
+    "text": {
+      "comment1": "什么是长存的？",
+      "comment2": "Dresden,德国.是我们,一直是我们",
+      "short": "什么是长存的？是我们, 一直是我们",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Dresden,德国"
+    },
+    "colors": {
+      "background": "#D86ECC"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241223/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241223/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241223/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241223/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241223/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241223/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241223/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241223/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Berlin",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAwQFAgEGAP/EADkQAAIBAwMBAwkGBQUAAAAAAAECAwAEEQUSITEGE0EUFSIyUWFxgbEkQlKRocEWIzSS0UNic+Lw/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgQAAQMFBv/EACURAAICAgIBBQEAAwAAAAAAAAABAhEDIRIxEwQiMkFRYXGBsf/aAAwDAQACEQMRAD8Ahg7Vyah1j7S4xezSrFI0ZTqucDrSvqIpbQvJqyumhyMSzvIwJIzk4HupXk/wGwqaH0O58Hx3GpyZLDDRM52yPkf7zVWyWd8x55Ly5HUByaK2VYI6GY2IMrgHw3Hj9alslo88LiNXdRlyDgsxya6cIpKkbxkktHX5XFQNj3ZlxbS3RQbpG2nb04B65pXPejCcR/8AipoZXjOns+1iMiYDx9hFDHE2rsWnkUZUM23aiSdz3WlSEgZ/qAP2ovF/QVkTGW7RXSIT5obHj9pH+Knj/pOaFG7Xvtx5sOD4eUf9avxf0HyxD2OvTXrSbbQR7doKiQn9cYrKftNsdTVnkrgLNe3Mq/flY9PfTcL4qxqEdBQMijNRrQ0+2z8sBsGMNjxpb1HSMpoSvFkk1SaONSSX/YUeJ+xHPyxXNl+0gXT7HIAaVup65+XuqTdaJihYvDfSwsks2Gt5cAqTkqar/Bo4asnanbPZXTIfUY5Q+BFGmxZwSKfZtt8Nw2T646EjwFLZrtDWCNRZIjUkyE8ku31NOR6Q9BaNr0qw0O6MPtc3X1B0+NLZ/oyyGFkihubiWQAfzMbvyrXE6xo5+VXkaGdRvTHa2csKgl2YEN8OlDx8jZal4yZD5Td3XcRxoWlxkdAMc0TjxWy1lvRa1YqrRwSoHyAuT7fbj5VIP6AlHTkB0EDF0EGAJengBgVhmfuNsHxJsY9bH4j9abj0h+K0ZWoEhzSv6ibH4B448aWz/RlkF4pkF/cCUqAHIUkdDQSUpQSQuqUpSZrUrpZ7GNGTbJDLyMccitcLqVGOaGrRiO4gtLqzuY/VU5fb194+OKYkrVC0W0wmtamk0T92e8VxkNjBQe/2GsEt7fQxdLrs32bdmtZuSSX5/IVlmWzXF0Aj6H4n603HpD0ejCHioWhvTGAmmyfujxpbP9GWQTlAE7OCMmfp8Kzi9/6MJL/oTuVkvJou6eQSAkLH1B9tFBuk/wAJJKrQBbG5ZgjQSY3dMY/WmFk0LShG7WgVwzx3EtvLD3TAYCH61nLEpbT2VdaH+zRPk85x/qD6Cs8y2kb4viDjPB+J+tNx6Ho9A1NQiGtNltY5ZjdzGMFQFwBzWcsam9i+efEXu4FVy3eZUs2zH3ueT9KWVp6AtPvRQ7yKGG1uFSYzuvAX1S3jn8v0okZvboN5yBiAd1EmD6IJPTriiSoBxd0HCWWoxK8scU+OjeI+dWrQIOOJIXZIIURQM7QKDJtm2L4kWM5Un3n601Hodj0DU8VZV0LPc2szRkqSqNnOfH2108WHCl+nnvUeoz5JXdfhVjuxfenGiZjJPLsME+Iwa5nq8EcLTx9Mc9LkllTWRbQzJ5O7BrNlnBX0iZW+lKTdDUYo5slAA7hMf8rUHMLifJ3iINluFUdP5rCi8jBeOLDW9/eQsyrFCuecuzEn3UMpWFGCRJaTvJZG2KhLHKr0BzzTkPihiD0K7t6MiMNxGBjmjXYMmnFqybDG0IZHHK8HjFdHD8Tg51UqG7Ce806Obu4MrcqVRiCc4PJX30vlq+MldOzbHbXKL+hzQ4799QjbT7aOUOSTvHoOAD1os0ccotNFYnNO7Hm7TXUTlW0vTUdTgho5AQfzrn+BDfkZkdqJwd3mzTM+0CQfvU8CJzYFu002STpWmn5yD96ngRPIxWO6F00kohjhLNkpGSVB92ea0SpUN4Z8og+zk8dgLiZXUTundqMZGOp+gq1LiKxxqaaZqS+n1eZFu4hvVtoYYXPHTNaeaS6F5Y4/aAXTm21OOJi4SEr6JbO3PJAI+NSU3J2y4RSjSL0WpzaNO3kcQSJ1J249Ik88MOfDNRstK0Sde1F9Tvxdyw91JIg3A/exxmqZaSSJhP8A7FUWYJqygRRmJKhfm+2qaImHgc2lwJFk9UckD/NRQ/Sc2viP6e73d8btmPdQncxY53E8Yq5ceyoqUtMfNrHNK0ssY3McnNJzm2x2GNJUHFrFK2CDkDruNXGUv0txivoc3pBYSQyxJNCvGHG48+wnmm8WR1UtoSy4k5XHTPLy6fKJXCONoJxlhnFSSp0RbVgzYT/jX+4VRYPyKUE7mT+4f4qmWji26C0A3N6ROTWqj7TG9nooraOFIbeMYjRd+Pax8TWGRfQzif2MBBjFL8EMc2ajHp/Ki4IHmz6YbrK4BPjTGOK4i85PkTo41ESA5OFHJo6szujRjT8IqqImDaGMH1anEvkf/9k="
+    },
+    "modifiedAt": "2024-12-10T04:17:48.324Z"
+  }
+}
