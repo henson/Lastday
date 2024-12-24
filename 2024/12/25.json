@@ -1,0 +1,41 @@
+{
+  "20241225": {
+    "dateKey": "20241225",
+    "text": {
+      "comment1": "在隆冬,我终于发现",
+      "comment2": "北京,中国.我体内有个不可战胜的夏天",
+      "short": "我终于发现,我体内有个不可战胜的夏天",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "北京,中国"
+    },
+    "event": "圣诞节",
+    "colors": {
+      "background": "#FF2600"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20241225/default@2x.jpg!jpg85",
+      "small2x": "{img}/20241225/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20241225/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20241225/big@2x.jpg!jpg85",
+      "big2x": "{img}/20241225/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20241225/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20241225/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20241225/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUBAgMGAP/EADoQAAIBAwICBgUJCQAAAAAAAAECAwAEERIhBTETIkFRYXEjMnKBoQYUNEJSYpGxwUNUc4KSotHh8P/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHREBAQEBAQADAQEAAAAAAAAAAAERAiESMUEDUf/aAAwDAQACEQMRAD8ATxcFkuIWaNyzZwqtHz376xk8K3KmL5MS3U6Qxi3LOdPWBXBolv0NBvwR43ZRGDpJGY5KPmah4dOg6onHuDUfKD1e1hmjnAc/1Jinzmi2ustndYBgg4HZXTzWNVkluGXfaqSAlklD4NICeEiELOZmkj0RMwLNgZx8TXFzfcb2Lx8Wwpcq6MRhQRnTnbPnT6yiQMZkDEMy58VqftV88eEsXYYvxIowl1kBOV0nyalmA0tJFkT1PyrfjpNjWZEC8sV0Ss7Ce4AMm1FINFbh7ac/NwHXBAWXsrh+m89TbWpZwzxzIF3z0mRT/E9XI1nhLSF4zc4O/UUEZpcXYnjrYyWORm0iSbP34KrNXo6Cz2Gtoz5xYq/h4n5H/B+FQyk7x47dKkVHMu4tPyg4eljw9rlJNlZRg+JxW/Nsqep45h1LqJFOxJHP/u+r1GBrfGtoxDZlXGDpk3Nct5XKNkSO2i0LEiseeknlU938Y99b4iyMc8bI+oON10yafdS4uXE8XB9ta3GreG6UHtaUMK6OY20a8bRqNyK2kTTLhfEYIFZZZXz2bDFReL+K57n6z+UNxDf8Me2icsWZTjR3HPOic9b6d6mECcKYoMitMZhbawTpAZGtX9hMVz4q3xe9bUxwmc9g7Kwu6xrGxVFlDOsiDPYxA+ApxMdEiKCCsSAEbdfB/CurlvEXB6n+60gpSXK3A7qepO7RBIoJpqhgsK45VKscvBMHV2WWOQchpSsLEdF0jF3YatJz2Z2+NYWf6yq8EaBgZ5JHH2QSc0vBHSW5R4o2CxJtsDua6v5zxrz9InGvqKAT4VqorntZEl1uNhTicMrCcY09tUIZo+1Spyz9G9uFTHMFtsZPfXP1ueJsKblGSTO758d6y+2aAzsuVEx7Mc6JA6LhKym1Czq6AeqMb10fzvi+TS3QK++d++tK0giaFGjIIBrPcPChfRTHSO2teemeDlnwop4ZAC31ZZCf4dYYa/QfOFMczTKpGdenGPfRmjxfhdukcHopbiYFj1l0n3Zo5kFk36MAJFOy3Z8yKsmhdzsY5B4lhTDZZyIt/iaixQKSRemHKnLgqrXK55iqnScCqHbGiW7z4pSwNkhmIw3zlvwH60sPYlLRlBCRTKM5xrCj4U8LXhCyn0kYYY+vNj8qAq/RrzW1HnKTQFBcqBhZIfJcmg4EuC7OGVtvCkGQPMscmpBiobb6Y/vxWiWugnnbzH2psUBBRB60EI9ubNMILQj9yH91IM2lXPVli/kgJoAeSR2ICvOc90QUUqcHR2yCP0pYk/aNJQG64e7SZjJx4UiXVS37C8b2pcfrWiFwgUZezjHjJPQHulhTmtih89VAbW4luvo8sQH3If8ANK05NUu4bu39eS5f2FUUpdOzBXD7JJIxLKJC3PrvmmcDcVSdGBiXYUrRY14fIzwekG4qaIBWziJ6xkb2pCa0Qxn6OD1IIj7QzTDKG+md9KiNB91BQTpuDs4UguWz31PUacNuIqrrhhkVPKqFMjQoFjwBVWJQkrSg68H3VNgiVVQNgKDf/9k="
+    },
+    "modifiedAt": "2024-12-20T09:31:38.652Z"
+  }
+}
