@@ -1,0 +1,43 @@
+{
+  "20250116": {
+    "dateKey": "20250116",
+    "author": {
+      "name": "米兰达"
+    },
+    "text": {
+      "comment1": "诗歌更替",
+      "comment2": "Copenhagen,丹麦.词语更替,人更替",
+      "short": "诗歌更替,词语更替,人更替",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Copenhagen,丹麦"
+    },
+    "colors": {
+      "background": "#EF5D66"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250116/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250116/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250116/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250116/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250116/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250116/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250116/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250116/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Copenhagen",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-01-08T05:55:04.143Z"
+  }
+}
