@@ -1,0 +1,44 @@
+{
+  "20250420": {
+    "dateKey": "20250420",
+    "author": {
+      "name": "米兰达"
+    },
+    "text": {
+      "comment1": "去学习、去查阅资料",
+      "comment2": "Magdeburg,德国.信息能够带来掌控",
+      "short": "去学习、去查阅资料,信息能够带来掌控",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Magdeburg,德国"
+    },
+    "event": "谷雨",
+    "colors": {
+      "background": "#42F0E3"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250420/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250420/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250420/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250420/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250420/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250420/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250420/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250420/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Berlin",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAUDBgACBwH/xAAyEAACAQMDAgMHAwQDAAAAAAABAgMABBESITEFQRNRYQYUIjJxgZGhscEVQuHxI1Lw/8QAGgEAAwEBAQEAAAAAAAAAAAAAAQIDBAAFBv/EACgRAAICAgEEAAUFAAAAAAAAAAABAhEDITEEEiJBExQyUWEjcaGxwf/aAAwDAQACEQMRAD8AOtZhKTG4xKu5UcYzitfS9Wstwl9SPK6jpvh+S4YcN8bbjvWkldjC0uHhXSo/uz/ioTgpGjFkcVSCobmbuc+ealKES8ZyCHuF06UAI/apqD9juaqkCBSzVW6JkgQLS2AnjiZlyBSNjKDeyidOk0XEgcktknSrbAHG/lnPNZOmy/Cyef5/wpnx98PEfRpvXsyZ5kUGwwM5IQZIGajKVcmqEL4PcEHcEUBjcUoSRRilZxIM96UBRPbfqt9D1OOG3u9MUakBYuQe+r1qE3s1Y147NumwwSqrSK2vI8UMMYx3/avOxpSkk3q/4+5SbcU2izouQCOK+hvWjyVF3sKikZUKDAB5wOam0m7NEZNKiPxVNz4GDqCa/tnFA70TqtBs4kUUp1mShhBIUdY2CkhmGQvrilY0Fs5r7Rw3l5eRzlbeUmPBlVgocj0J5xiszt7NaVDC2vIpwCsOjI0StqJPGxI8vXesMO2Maa2v6Gadlg6TLK6PDOcvEcZ2BIr0+kySacJeuP2MmaCXkvYy4Gw7cVqJFGteuSt7Se9sw1viFov7SuQMA+ed6nbNTxrto6C7JFGzuwCqCWJ7AVxlK/0frq3HV7qGbUIp5R7sxG3GMemcZoFnjaQt9ub696ddRtbho2lQor69ip2Pw+dRk6ZXHHRQZWy+JCcjbmopUVHdrCyKXMjhdG2kHDYO361hnL7DJF66GtvNbRTqxMyKVYtzg/xW7olBpO9q7M2e069MZXBMVtLIBkqhIH2r0GzOlbo5nAlotyunxFkBDA875zn81LZtaVHReq9QtoUns2mQztayPp9QNh988elGzNHH7KL0tPc+oW9zgExvl8SbnzFA00Re0b3bXM62i3TW0chXMoyc7nkVCSbCqKxu2+GNLQS2vNGlorvIYxGpBT5dR5AFeWotypFLpBnQ+pKLqKRdWhRuTwcev0p4RlimpL7iSqcWiwDq8V5067Qn/k8NwuFO4xXp4+p724szvDTTRSI4ApEnx5BB3HNWstRl3cXN7dSXUsiGaYltWojT6fimESpURxwyGJWLKWAOwauGLB7TWMHTumQTR3xea5AwJZMBFIycAevc/wCoStBRSfdWdmMKmT/swBxn0qbYSwNrlmjZ2BR0xhQrbjbJrzV4xaRSrNoIzFdSxxgKpX4wF2Y+meB3pu64JsWth/TZJIen30rLlfAc5xgAkgY/X960dMv1RZcCYXaeCy5ZTo51d69GgHphDwwiNfiC74b5jTdyW2LRA00MYKasMo3LbDNZnllehiFLuVjlhGz4+HUfl/zSPSs5BE3WJV0rIBKw7r8A/TGfrQjbV0MMLcRmFI2XCoxVtO/f5j/7FedK9sdAVlNKl43iygRhjqdSAH5HP24rRKKcaSET2HQ3EkZdykjwuCSDwPP71f5KdJ2KssboiuZVgVQRrVl21AZzWjFNzu+UF6AXkAhYKCH7EDmjl+kCFdxcIGHn5g1KMTiOCQeJknBwcfWjLg5Gr6i2ec0BgyHqEqM2FU+IpVsqfi2xz571F4VQLYxMqe7RtHj4QQwAHIHJ/P60sU3NB9DNbyNoZIgS0fgalZRnjYj7HFe1aejEotO/yBdTjVBCocBiuoqBgeprzcEm+6Rsl6E8tyjhxqIGDx3pptyoAuY7hmGN+POicaeIc51EfWicGWVtd3EbPFbPKueeK542+DrGEtmXisokdgkMZztyzOxP3wBVFBsDNYrdDDEIElLu7b74KjP52xSLGrTC2MM36xLH4BCqugYTgH1rR3OqJ9iuwW+e6uL4JKkhCoQFCnjPYVCGOMPFFG2wU2fh3KAxS6fVCPOueNP2AjltozMyO2hQhYBxjO/bvXLGkGyC0ij98dGUHSDjP1peB5JUHzAah5YoNsVF16d0Dp0UccksUryBcYkbbA81rmwpE3VI7S06e/hWUUWSBqSMLj023pocnS4FisRcgnOkb7HmrNk6I7rqk8zFkiKKeAZZD/NTUUNYIZ7tlKiFGXnB1n+aNIGwWW0muiT/AE2Bz5gSE/nVQpBAP6feWsoYW2nByBpNdVo4xre9c5NvIPoKXsZ1nRwxB2pCgg9p53dI7ZgpjLajtvkf7psfLEkKunXEviRDWcCRFAyfMVVvQqReEYtyBt6VBFDC3fAzjnFE481EDbb6UQGpc6yvaicSINQ3PFEB/9k="
+    },
+    "modifiedAt": "2025-04-03T09:11:51.886Z"
+  }
+}
