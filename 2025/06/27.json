@@ -1,0 +1,40 @@
+{
+  "20250627": {
+    "dateKey": "20250627",
+    "text": {
+      "comment1": "我心如止水",
+      "comment2": "武汉,中国.焦灼的炎热,把我投入宁静",
+      "short": "我心如止水,焦灼的炎热,把我投入宁静",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "武汉,中国"
+    },
+    "colors": {
+      "background": "#2AD5BB"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250627/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250627/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250627/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250627/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250627/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250627/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250627/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250627/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-06-10T03:37:44.067Z"
+  }
+}
