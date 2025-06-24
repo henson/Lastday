@@ -1,0 +1,44 @@
+{
+  "20250701": {
+    "dateKey": "20250701",
+    "author": {
+      "name": "绿色app淘汰的头像"
+    },
+    "text": {
+      "comment1": "世界照样明亮",
+      "comment2": "香港,中国.人们走向不同的方向",
+      "short": "世界照样明亮,人们走向不同的方向",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "香港,中国"
+    },
+    "event": "香港回归纪念日",
+    "colors": {
+      "background": "#88E3E3"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250701/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250701/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250701/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250701/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250701/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250701/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250701/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250701/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Hong_Kong",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-06-24T14:53:50.495Z"
+  }
+}
