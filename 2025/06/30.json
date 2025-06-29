@@ -1,0 +1,43 @@
+{
+  "20250630": {
+    "dateKey": "20250630",
+    "author": {
+      "name": "狗熊冬眠到春天"
+    },
+    "text": {
+      "comment1": "我是玫瑰的影子",
+      "comment2": "杭州,中国. 一旦离开了你,就会变为一片棘刺",
+      "short": "我是玫瑰的影子,一旦离开,就会变为一片棘刺",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "杭州,中国"
+    },
+    "colors": {
+      "background": "#FF79D8"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250630/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250630/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250630/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250630/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250630/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250630/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250630/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250630/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAYAAwECBQf/xAAvEAACAQMCBQMCBgMBAAAAAAABAgMABBESIQUTMUFRBiJhFHEHMoGRodEjQrHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAeEQEBAQEBAQADAQEAAAAAAAAAARECITESQVEDBP/aAAwDAQACEQMRAD8A8woCUBKAlASgJQHT4XHhGk7k4FL9uX/pv6UTtNLcSGHXgHHtp61/zk55koOhqlASgJQEoCUAXaNcRHChwjdTp6fNLWffPHX1b9Ryxy7eFmRdskdTSxP4b71QJFU2YxQBkPC76exF7BbSSw80xZjGohgM4IG/T/hoAKgJQBNryI/8s7aiPyoBn96V39M+/wAr5ysZ5b0szNohTc/H9ml8KSceT6tguEdcMGAXYHGc0rBeQFW1M/oPg9hxric9pxC3eRBFrVkm0FCPjuD/ABt5pwq9Y4TwrhvA7M2llHyYmOpyWJZzjqT5p/E7/Xj/AK6so7L1VdrBGscMuJUVegBG/wDOaVVC9ikaBSSAAST0AoAyTTBAkLDVIDllB2B+fJqZ76zm9W0K7Ox9x+w8VWLkxkb0Gb/w34fbXPHhcS3bJPagvHAqkGQYxnV4Genf7U4VPvqSa7toYLi3LaTKEcBgMj74+Kjvc2MutIHqqz5kacR4m831U8pBeMa0RAPamCc575z5o258VzaXORY9ruf9bf8ApqN6/i9om4t0siTExZ9IwxXTpz2A87HJ+Knm3r6zl/Jz1VlO65FatFyhMbiqmJ9Cg46VCzZ+HUwj9S5IjGbdxqZ8EdDsO5OOnjJqufqevh+ubl7o6S+VXA0joP0qbLajXP41wq4HA7me5tIp4guvQZMYx32+/ml7B7JpCtrFrdY724ibl49qoMkuScDHbA33qL1u8wr1vkC8Q5ySCK4UrIDqdD/p2Vf0H/ariT7FcwKZewFa6eNdz2pGqaJlGcZFLD1IpZIX1wyPG+MalYg0jN/oZ7aN5mmvB9TOwRIWY/vjuTj+Pmq5xn3r1NZFuLRk5kUupcOCMg+dqdhS+Fe7gtuHcRLwSFecMcse1QQf/a5P9OJviPIXfWfCLSO0h4jaROkkkxW41MTkkZB3+Qa6eJ5kaTwprFitJyNbhMdqqQtBRynBXrmsdaY0kXS+KRrrO5ls7mO5ixrjOVJGcHzTnhWa9L9DcW+ss3a8uUNxC+EHRmBHUj+vFXPYysyi75GVmuBiYqMEY3Hz81N4/YlIU/GeIXUM9tPIWgkk1aGGdGD28VfMVQanG1aRLbUBTJzMKhyDk1ytmJHLnJ6ig5GFONj0oAq3blv7HIZSGUjqDV8opnuPVYFoY4UnRjFpLAjOo9TmqtROfS/BcBkw257k1XHZ9ct20N+Xar8pTVJO+M1naYAHbpWLVYEBiLHamTVE15wRtRhpGxjkB8US5SvoqZg6AgYBq+rqZMVRRSahgVMlO2DBBIBnFazms/yjdIgAdS71c5K1yAa5W7OTjGdqAg+KAgO+TQB0UnMREU4x1rWXfGdmDFBVtcOA2MEHoa0/H+M9/ozmoluCY8sBuBV7kTmqdSuNQAFOWUWYXhXE6m6qChNAag9aAsijVkYntTkK1mD2yUT6L8dJHJGeldPN2MbFyu2OtVqcYz8CjA//2Q=="
+    },
+    "modifiedAt": "2025-06-10T03:37:45.011Z"
+  }
+}
