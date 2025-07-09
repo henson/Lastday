@@ -1,0 +1,43 @@
+{
+  "20250721": {
+    "dateKey": "20250721",
+    "author": {
+      "name": "麦卡特鲵"
+    },
+    "text": {
+      "comment1": "人们读书",
+      "comment2": "Brussels,比利时.不找什么,却又得到一切",
+      "short": "人们读书,不找什么,却又得到一切",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Brussels,比利时"
+    },
+    "colors": {
+      "background": "#CE2C29"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250721/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250721/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250721/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250721/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250721/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250721/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250721/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250721/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Brussels",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-07-09T12:16:45.190Z"
+  }
+}
