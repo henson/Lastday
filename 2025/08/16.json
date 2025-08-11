@@ -1,0 +1,40 @@
+{
+  "20250816": {
+    "dateKey": "20250816",
+    "text": {
+      "comment1": "这阳光,这海洋",
+      "comment2": "Kobe,日本.青春跃动的心脏,带着咸味的躯体",
+      "short": "这阳光这海洋,青春跃动的心脏,带着咸味的躯体",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Kobe,日本"
+    },
+    "colors": {
+      "background": "#FCDBAC"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250816/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250816/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250816/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250816/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250816/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250816/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250816/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250816/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQIAAwUGBP/EADIQAAICAQIDBgUEAQUAAAAAAAECAxEABCEFEjETQVFhcYEiMlKRoRQVI0LBBrHR4fD/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EACARAQEAAgMBAQEAAwAAAAAAAAABAhESITEDEyIUI1H/2gAMAwEAAhEDEQA/AOyGqP0D7534OH6D+qNbKBjgfpUGpfxH2xwhzphqyOqg44H6VBqzZtBXrjgv6GGrXvQ/fJwX9IddRETVkeoycasziwMh6MPvk1V3GSt53ecwyA3hUvAmARgEZAwwKQPPKmhofUMKnuMA7fUMCbfUMAivEZAfgrrg6EMvj+MDz75pEyBvQjAgPjgEWRe2AwB/8Mih9zlQV7/+MgqAarr3IygqCPX0wGpr36+WBDzdw98CfGdlr74O0AfobrB2PIfEnus42aQcw/sPQ5FLzgWLqvO8ujYqwHp45BA6N85IHXGjaWlWG998HSFwCBdt02y6NpamwpNgUReQIspI3UgDqeu+XSG7WNfmZVPmayKCKVu3Bvy/GVIbY71v3isioQv0irsHbAVqrmA9idsoPIxHy+u9/wCMmzRZCyWezutthX++UedwEYMiH47sHoTXiMbTRkKqgPKwZuoIG2FMHJiUq1kiwx/BwnZkLA21G/f84Ipm1kEU8UMk0SSSHljUv12vp7ZNyerJb4sDxEv/ACopO9dplSaVw6iHUossMyPE3yuklg4hfdVfSgEfHy+tg4Gfq2aKF3QDpuOboRgeXS69206EQBrUHaS+u/fklVfwabt9EY45e17FzHzdOYD5TXpmPnZY39MbMhm1oHFdPoqKc4LOTsTttR9QbvLfprLiT5bwubmuMx6iX/V6IJHQKyKwVwjdm3Sj3nrnPK/3264z/X/Lq21qaeaLRnTzNKyEgnoAo6s3/W+dd6unCY7m9PJwbURftUTy9nyl2CCqB3NAeJy+eLnO1fFOJNw3ielQ6VI9FOGEk/MbVh5A+n3zNz1ezH58pdLnCa/hbnTToYHUgSBSQp9+/NblTjZ04395k0JbTRASLGSoeyCwB2zjc7LqOuOE12sbiWq4VJPFp2pmYqx5iNhe4zjju+O91PWnpIZXi03E+JTdhOjhllj/AJCVoVYG1HfEuqvs01D+2cR4knEIdU8skfIHjEa3QJIO9emX9N0mGppNQyGd9TqJn0hkARQ/9qPcBubv2yXPeW1xx1jxeKeeLhXC4uHcOTtpNNIG55WKhSxFBfE77k9Ac3Pr0535TbG1vG24sX0+vikKwzM17Bo9iAAfC6+2S231cZJ4HDOKjRcJ1+mjLc8hUh+nKN7rzOw9/LNb4zpnKS91zh5rO1++ZZjouOIf1YmEJ7Nn5mANb94/F5y+eU8dcq6zhAjfhsW5joUFbc13ZdrA4ppdF+ilk5oUm5aSVwBTeuWY3PqLuY91ys2jlVjI3ENCXGyqkxZvbbNf4+WPrP745HaSEgtqOeZjTFFfkAYdGsg36eWSfOlzZWoKqS68wdmJezdn/IzVmmdjr9WNVKJZI1LkcrWKDV5DEv8AxLdsxWU3YB378Mu9igDRhpJHcA2FJoDu7vXOfnju0dOfg5QAAooVgOGLHlemXwIByjya3RwTo0zp8aCl5dq38s1MrGbjKzNTDDBL8MKHY/NZxLdpZIwtUxWBSOpzpn45Mx5GK2fPMLFTsb6DCv/Z"
+    },
+    "modifiedAt": "2025-08-11T08:09:02.175Z"
+  }
+}

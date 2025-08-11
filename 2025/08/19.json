@@ -1,0 +1,43 @@
+{
+  "20250819": {
+    "dateKey": "20250819",
+    "author": {
+      "name": "勞人艸艸"
+    },
+    "text": {
+      "comment1": "生命力就是：",
+      "comment2": "乐山,中国.早晨睁开眼睛,立刻全然清醒",
+      "short": "生命力：早晨睁开眼睛,立刻全然清醒",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "乐山,中国"
+    },
+    "colors": {
+      "background": "#F7CA19"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250819/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250819/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250819/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250819/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250819/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250819/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250819/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250819/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-08-11T08:09:03.039Z"
+  }
+}
