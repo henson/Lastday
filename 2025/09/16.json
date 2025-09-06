@@ -1,0 +1,43 @@
+{
+  "20250916": {
+    "dateKey": "20250916",
+    "author": {
+      "name": "ZY—Leo"
+    },
+    "text": {
+      "comment1": "地扫过了还是会脏",
+      "comment2": "广州,中国.那就再扫,这是每天的工作",
+      "short": "地扫过了还会脏,那就再扫,这是每天的工作",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "广州,中国"
+    },
+    "colors": {
+      "background": "#FF7E79"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250916/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250916/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250916/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250916/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250916/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250916/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250916/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250916/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-09-06T03:46:37.781Z"
+  }
+}
