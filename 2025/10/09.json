@@ -1,0 +1,43 @@
+{
+  "20251009": {
+    "dateKey": "20251009",
+    "author": {
+      "name": "Jiangdada"
+    },
+    "text": {
+      "comment1": "请为我祈祷",
+      "comment2": "Belgrade,塞尔维亚.愿我迈步下行,毫无怯懦",
+      "short": "请为我祈祷,愿我迈步下行,毫无怯懦",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Belgrade,塞尔维亚"
+    },
+    "colors": {
+      "background": "#ACD3BD"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251009/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251009/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251009/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251009/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251009/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251009/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251009/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251009/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Belgrade",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-09-20T09:14:34.806Z"
+  }
+}
