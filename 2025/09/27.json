@@ -1,0 +1,43 @@
+{
+  "20250927": {
+    "dateKey": "20250927",
+    "author": {
+      "name": "woO1gather"
+    },
+    "text": {
+      "comment1": "空气中弥漫着秋的气息",
+      "comment2": "Poznań,波兰.气味总是与某个特定时刻紧密相连",
+      "short": "秋的气味,总是与某个特定的时刻紧密相连",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Poznań,波兰"
+    },
+    "colors": {
+      "background": "#00DDE7"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20250927/default@2x.jpg!jpg85",
+      "small2x": "{img}/20250927/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20250927/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20250927/big@2x.jpg!jpg85",
+      "big2x": "{img}/20250927/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20250927/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20250927/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20250927/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Warsaw",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-09-16T12:52:48.064Z"
+  }
+}
