@@ -1,0 +1,43 @@
+{
+  "20251109": {
+    "dateKey": "20251109",
+    "author": {
+      "name": "Chris"
+    },
+    "text": {
+      "comment1": "我就喜欢懒散地等待",
+      "comment2": "Bukhara,乌兹别克斯坦.在此同时世界匆匆开战",
+      "short": "我就喜欢懒散地等待,在此同时世界匆匆开战",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Bukhara,乌兹别克斯坦"
+    },
+    "colors": {
+      "background": "#3EC662"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251109/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251109/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251109/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251109/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251109/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251109/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251109/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251109/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Samarkand",
+      "offset": -300
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-10-20T14:21:37.578Z"
+  }
+}

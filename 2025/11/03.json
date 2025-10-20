@@ -1,0 +1,43 @@
+{
+  "20251103": {
+    "dateKey": "20251103",
+    "author": {
+      "name": "AccioDawn"
+    },
+    "text": {
+      "comment1": "又一个划时代的人物走了",
+      "comment2": "Granada,西班牙.又一个世事无常的警示",
+      "short": "又一个划时代的人物走了,又一个世事无常的警示",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Granada,西班牙"
+    },
+    "colors": {
+      "background": "#00BFE7"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251103/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251103/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251103/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251103/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251103/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251103/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251103/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251103/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Atlantic/Canary",
+      "offset": 0
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-10-20T14:21:35.829Z"
+  }
+}
