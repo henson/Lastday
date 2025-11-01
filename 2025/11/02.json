@@ -1,0 +1,43 @@
+{
+  "20251102": {
+    "dateKey": "20251102",
+    "author": {
+      "name": "米兰达"
+    },
+    "text": {
+      "comment1": "我原谅所有人",
+      "comment2": "武汉,中国.也请求所有人的原谅",
+      "short": "我原谅所有人,也请求所有人的原谅",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "武汉,中国"
+    },
+    "colors": {
+      "background": "#FF7510"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251102/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251102/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251102/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251102/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251102/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251102/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251102/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251102/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAwIEBQYHAQD/xAAuEAACAQMDAgUDBAMBAAAAAAABAgMABBESITEFQRMiMlFhBpGhFHGBsULB8NH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMEAAX/xAAjEQACAgICAgIDAQAAAAAAAAAAAQIRAyESMUFRImETMnGB/9oADAMBAAIRAxEAPwC7YqxI9XHDbqFjBewaJwvl3DHO32IoNWNGTj0VZbzqHSrqUQWLNHITgIxdWA4cduOai3JXSNCjCSXJknJ9QXUTYew0lFzIhYg+rGV2/ujzl6FWGLWmOppekXkYcyQRySqd5FAJA5yPbNPyj5FqcdFa6jeWMjzxRKsUUQws8bNqL9lB4IHO/vUpTj4LRjNr7K3cuuI1CatIxscA/NSTssnlRr9bDzjoFccBvLiO1tXllAZRtp9/illJRVs4jLvqdlJaokcSyIcFl3XQPjHBqTzwodJ2VTqFxbtJLDDZTnygJI9wxb9yM8c7f1U/yxfRrgnSdkdeRyzFpCzacABH8p09/wA0jkrOWWtMDJPskaABM+YDfJFCvJ0d2CkgM0aAKFZc6jnnPFNGVCZG7NgFbDIInLrCxiGXAyBjOa4KKv8AUV6ty6wllZIkDFV7tjfesmfI74oeEfkViO6kglOhw4YZIUc1HimbWlJVQP8AWSCR/C8ocYwd6PH2NPGnHfZ1rhljcXI1NxvzXV6JQwNSGYTILg+UHByfeqJ+CrcOkS1hFHOrsp0AEDA/aqQhyt2ZMkcmkaPcTx20DTSkhF5wM1dujOVDqfWpY+pS3FlM+MaQMdse371mnl+XxK4ocnTKy8jys7MWZySST3qbezasS/wVCkS5ZXGrup4+9I23opCMUckLL5cICuwZTvvRSLUAefGQQWzyN9qZIDlXZ3xIggkw4PfHFdTFlGDVhbYloyQNXmPAI/qqRRKU4ryaT1qB5rGUAK8eg5jIO57EY7g1ol0efBKTpmezmCOI24ieOUDD6zltQPPxWWTfVGzHgSTcWM9eg4cAgDBODvS1fRXcf2EvKjkYBH7YrqYVT6OsVYaQq6s7FRsaNDOSQo26Lg+KQcHIZSRmhdgTp6BQhCMPsGx5ieKLvwKm+5D23uYLaMqJXDFjnTg5/k00drZOS3aNWHFajzyk/WvTmt5Bd2qHRcEmYgZIb3+M/wCqnkQ8OW6ZUzbuiK0iuVcbZPpzwTj3pHBloZEtO2dmiTPhd14yeaSzRwS6YFUdNxjPyNq6wqLS32Hhlnhm1KAPkjIPwfelaTR3KT0gTAb5iAwM7b5P3op/Ysq9HWkRQvqOR/iop8cOViTzVVGxg1oMIK4WOSLwpYjJHJ5WA9vmuGTrZmnV4RY9WubQZ0RglS+TnbI3/wC4rPLGk9G3Hmm0rI+Od0JI8JgexWpuKZZZJR9DkMrIuGU5/FLR0kpJOxNwB4LHOHA23xvTRVsjOTiqTArqeJmPrBBClfUO+9O0kJzlLwdVF9RKjVuNQpXoMafdGtBhnFbDEKDA8GgcVXq/02kt/JfJKJDO24lXUI/nncfFCkNzl1ZWI7R4/E1DSkZI2wQd/wAVCUTTGVi5LZ1XxUx3yAOMDk0tDOS6Gd2DIAcAAnfHc00GSkDthmDGg5GxJ5oyoEb6A6xG7Ahm9u1KVS+zWPHjGo6u2ce9azGNo7wQk+PIFU9yanG92cM3v1kjQRMrE7kHfFTl9DJEH1O3keQTZVTncBdOaR32aISrQ1kkZLSTDZIHcZzS8nZ0iLdvFjBJLKx2yeD7U8aRNuxEDSNDmTcY05J43/NCUl0gJ7DeGX3gKhRtuAc/+VLl7O5ey43t41tKBHbyzhYXmYIOy/8AGt7kk6JpALu1hvYUubeTWHjBUjcGhxs5Oht0+0lQkk5QDVkj1CkUdhsV1SWKFAJPURlR7/xSTaihuXogpHe4bZgnbIrO5eznJsa61YsgztuWHc0RRJfw9igBbfHsPkV3YQYlP+LlQfjGftTUOi09U+o7iHoc1vbxr4jHAnVsFATuBt33+9XipNcpdk0/BHWF3c2VjDAkmyA7aPffFMuXsDQt+sXfhlGcYzn00y/oKYyurt559UoxIcKAfLn2rJkVyY6OmSNYfDncRBgSd8b5+KjTu0MRrSNuVXAAwCTgmrJIUbtIHkKlZNj3OadKkcOunwC9MuWMZjxnSM5zmikGyWVE/RyySKJB4qDQ3pI/iqt6oVIAzHB3rjgtgAVvJT64YdSH2JYDP5oSCiL6gT+qmUbaCQCOeakl5ChvdSNoMe2nQDihFeTgesoQV2LLv9qarAN5ZG1nBxtv80yRweC5lgLCJyuQM470Dj//2Q=="
+    },
+    "modifiedAt": "2025-10-20T14:21:35.545Z"
+  }
+}
