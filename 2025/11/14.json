@@ -1,0 +1,43 @@
+{
+  "20251114": {
+    "dateKey": "20251114",
+    "author": {
+      "name": "鹿路西"
+    },
+    "text": {
+      "comment1": "只要天气足够好",
+      "comment2": "Tokyo,日本.我就希望自己能够消失在大自然里",
+      "short": "只要天气足够好,就希望自己能够消失在大自然里",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Tokyo,日本"
+    },
+    "colors": {
+      "background": "#C05815"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251114/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251114/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251114/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251114/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251114/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251114/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251114/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251114/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-11-07T02:42:39.553Z"
+  }
+}
