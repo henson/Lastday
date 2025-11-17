@@ -1,0 +1,43 @@
+{
+  "20251123": {
+    "dateKey": "20251123",
+    "author": {
+      "name": "弗洛伊德飞艇"
+    },
+    "text": {
+      "comment1": "最好的戏剧",
+      "comment2": "成都,中国.也不过是人生的一个缩影",
+      "short": "最好的戏剧,也不过是人生的一个缩影",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "成都,中国"
+    },
+    "colors": {
+      "background": "#37F959"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251123/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251123/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251123/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251123/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251123/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251123/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251123/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251123/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-11-17T04:18:11.353Z"
+  }
+}
