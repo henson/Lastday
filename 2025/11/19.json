@@ -1,0 +1,43 @@
+{
+  "20251119": {
+    "dateKey": "20251119",
+    "author": {
+      "name": "Sourire微醺在巴黎"
+    },
+    "text": {
+      "comment1": "相信太阳会为我们升起两次",
+      "comment2": "Monaco,摩纳哥.玫瑰会为我们而绽放",
+      "short": "太阳会为我们升起两次,玫瑰会为我们而绽放",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Monaco,摩纳哥"
+    },
+    "colors": {
+      "background": "#04C4D9"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251119/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251119/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251119/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251119/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251119/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251119/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251119/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251119/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Monaco",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-11-07T02:42:41.672Z"
+  }
+}
