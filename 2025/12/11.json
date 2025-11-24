@@ -1,0 +1,43 @@
+{
+  "20251211": {
+    "dateKey": "20251211",
+    "author": {
+      "name": "Chris"
+    },
+    "text": {
+      "comment1": "在生存与梦想之后",
+      "comment2": "Dolomites,意大利.最重要的事情是清醒",
+      "short": "在生存与梦想之后,最重要的事情是清醒",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Dolomites,意大利"
+    },
+    "colors": {
+      "background": "#E0004F"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251211/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251211/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251211/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251211/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251211/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251211/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251211/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251211/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Rome",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-11-24T14:28:29.345Z"
+  }
+}
