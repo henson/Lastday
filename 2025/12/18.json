@@ -1,0 +1,43 @@
+{
+  "20251218": {
+    "dateKey": "20251218",
+    "author": {
+      "name": "周家帮的笨小驴"
+    },
+    "text": {
+      "comment1": "我又爱又不爱你",
+      "comment2": "Budapest,匈牙利.难道这不就是幸福吗？",
+      "short": "我又爱你又不爱你,难道这不就是幸福吗？",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Budapest,匈牙利"
+    },
+    "colors": {
+      "background": "#F7AE11"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251218/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251218/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251218/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251218/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251218/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251218/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251218/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251218/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Budapest",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-12-04T10:47:28.495Z"
+  }
+}
