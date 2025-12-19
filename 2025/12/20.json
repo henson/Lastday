@@ -1,0 +1,44 @@
+{
+  "20251220": {
+    "dateKey": "20251220",
+    "author": {
+      "name": "麦卡特鲵"
+    },
+    "text": {
+      "comment1": "我们无可选择地繁荣或衰败",
+      "comment2": "澳门,中国.服从雨也服从光",
+      "short": "我们无可选择地繁荣或衰败,服从雨和光",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "澳门,中国"
+    },
+    "event": "澳门回归纪念日",
+    "colors": {
+      "background": "#A59BFF"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20251220/default@2x.jpg!jpg85",
+      "small2x": "{img}/20251220/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20251220/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20251220/big@2x.jpg!jpg85",
+      "big2x": "{img}/20251220/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20251220/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20251220/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20251220/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Macau",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2025-12-04T10:47:29.094Z"
+  }
+}
