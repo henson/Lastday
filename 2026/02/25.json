@@ -1,0 +1,43 @@
+{
+  "20260225": {
+    "dateKey": "20260225",
+    "author": {
+      "name": "woO1gather"
+    },
+    "text": {
+      "comment1": "我们什么都不信",
+      "comment2": "Freiburg,德国.却又什么都照做",
+      "short": "我们什么都不信,却又什么都照做",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Freiburg,德国"
+    },
+    "colors": {
+      "background": "#FF7E79"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20260225/default@2x.jpg!jpg85",
+      "small2x": "{img}/20260225/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20260225/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20260225/big@2x.jpg!jpg85",
+      "big2x": "{img}/20260225/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20260225/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20260225/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20260225/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Berlin",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2026-02-10T04:00:21.487Z"
+  }
+}
