@@ -1,0 +1,40 @@
+{
+  "20260625": {
+    "dateKey": "20260625",
+    "text": {
+      "comment1": "整个世界",
+      "comment2": "Naoshima,日本.是通往一个世界的道路",
+      "short": "整个世界,是通往一个世界的道路",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Naoshima,日本"
+    },
+    "colors": {
+      "background": "#EF6B83"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20260625/default@2x.jpg!jpg85",
+      "small2x": "{img}/20260625/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20260625/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20260625/big@2x.jpg!jpg85",
+      "big2x": "{img}/20260625/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20260625/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20260625/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20260625/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Tokyo",
+      "offset": -540
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2026-06-05T07:09:54.876Z"
+  }
+}
