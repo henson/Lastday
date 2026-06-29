@@ -1,0 +1,44 @@
+{
+  "20260701": {
+    "dateKey": "20260701",
+    "author": {
+      "name": "绿色app淘汰的头像"
+    },
+    "text": {
+      "comment1": "热情的时代过去了",
+      "comment2": "香港,中国.成熟的人需要平安地生活",
+      "short": "热情的时代过去了,成熟的人需要平安生活",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "香港,中国"
+    },
+    "event": "香港回归纪念日",
+    "colors": {
+      "background": "#FF1A33"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20260701/default@2x.jpg!jpg85",
+      "small2x": "{img}/20260701/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20260701/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20260701/big@2x.jpg!jpg85",
+      "big2x": "{img}/20260701/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20260701/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20260701/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20260701/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Hong_Kong",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABQIDBAYHAQD/xAAwEAACAQMCBAQEBgMAAAAAAAABAgMABBESIQUTMUEiUWFxFDKBkSNSobHR8CSTwf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAIhEBAQACAgIDAQADAAAAAAAAAAECESExAxIyQVETIkJh/9oADAMBAAIRAxEAPwC9AVtmOEUjIYUyDONwG4sTEpwWPU+1Uwy9eWMsfbgBKxxgCWRQyqM7Z7d81POrY/loVxWS3ubMCK0h5q4AdWwe/b/lTGUn0ruhtDnlt4CAx7D3pavafRs7nYZpG3ECrB4ikZBoCDxEkQeEZJzt9K3jNs70q95ZPcc15mVtgeuNyT/FL21wx5fDPJzUWbh8EaIiuOY5wFL428/Wl7M4+CS9oMvDp2TULeUqR1Fu5B+oNZ2t/PH8B57KWJyCjjP5kK/oawNVtXaqHHjQZBoJBvzpjBzjfyreLNQL1YRbSSSICBv1x1oynHAxu7yrcUtncW63FzCrnVgJGSSm+NRBPSsZTTU1Tl9aGS0XkyS6TurRknG/vSkjV2Fi0Vowl1LI7ISFLMQdPlufenpnf61UUBw0jINMB3ERnT2GD98it4sUG43cTLZXK/CloRGTzNYx08utarGOlY4Pz0WW5mtJORIulWGdyCCcfTvUvJlJw6PHjez08sbSmSKRkTroJwR71Gc9t5f8Q3JLnVOD9c02OWtCqsR40GQaAE8XdMKpIyASQemKph1tPLvQDdQJdwMIrh9QXAgDgKf7mnZbyzuY8AlpHciURcloosnUGfHbfHrUs8ZYr487Dk3D+cGaB45cbMRKDj33qfrIru3oKlsLwOcLHjt46OC1k2MCqJx40jIIpgE4jhb5idhy+ucfeqz4Jf7htttMzlgWJ09cggDqKJedDOcbQbi3ccR1xaNCeIjSCWJ67VPK64Uxm7uIU895GpjRp8YxgxLt9vpU9b7U3Z1Q64nvUcANI+VB8MZ29D60ekL3ya9itMuEUAgigAfFUQ3bGRgqGPcmrY3WKVm8wnVbPasjiBmVx866hjHTA3qee7VMbNaRJ2tI4yyiyTyZYG2/Wpe3Olv58bLdhAnLlLh1O/JcIp8tic5psIcl3Hq63P8AuH80w0sU2Y8RSM2aZA/FgjTBGXVlNwR67VTGbxYt/wAgeCK1DStKqBR+bAGfKjQy46Db9IFIniABdmDH5zt98Vz8dLZSzW0afijnd1iOBuTDuabOwibjUjP+FDCR6xUy9mz1oPGkZtqAA8ZYpdBiSV5Z2FWw5xSy4yA4ZIZUeK5MalmLDVv/AHrRljvo5nJYg3ZjQPiSKUIdO2QB9jUPSr++OQdeqyWHxEkUaxuSqAlsv6jfcUeuvtnKz8V9s9dWM+tNNvwoacNBmmoADxZ1N2Y2j1ERk5LEfTarYy+u0rZ7aA47O3uL2Z5Y9SrGX5YJY7etBWc8IMkNsloNQOgkldR0HHrtU7tSagNxnlKsEcUrt+HqKs+oJnsKzeyvYSrYGD+2aVDfRTbcNANNQFb42w+L+XPgIro8fxRy+QY1jc3FsZUaRGHy8uTQzdsE9MVm3lr6B795rKNnkmcquwDyAlvY49Knaat3M7TzvK3Vzn29KwDIBOcUBv1Ntw0gbamFd4sP89T5pvVsPhUsvma4vO9rwRpYSAwCj7kCsfbc6qhcelZrxbcYWGJF0IuwGQCf3qd7KhR3l09sZo+g6GKoDtk5JpB//9k="
+    },
+    "modifiedAt": "2026-06-29T02:36:23.458Z"
+  }
+}
