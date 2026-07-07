@@ -1,0 +1,43 @@
+{
+  "20260708": {
+    "dateKey": "20260708",
+    "author": {
+      "name": "麦卡特鲵"
+    },
+    "text": {
+      "comment1": "让生活呼啦啦地掠过我们",
+      "comment2": "Minsk,白俄罗斯.而你我不动",
+      "short": "让生活呼啦啦地掠过我们,而你我不动",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Minsk,白俄罗斯"
+    },
+    "colors": {
+      "background": "#FF6600"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20260708/default@2x.jpg!jpg85",
+      "small2x": "{img}/20260708/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20260708/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20260708/big@2x.jpg!jpg85",
+      "big2x": "{img}/20260708/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20260708/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20260708/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20260708/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Minsk",
+      "offset": -180
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2026-06-29T02:36:25.328Z"
+  }
+}
