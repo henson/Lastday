@@ -1,0 +1,43 @@
+{
+  "20260720": {
+    "dateKey": "20260720",
+    "author": {
+      "name": "麦卡特鲵"
+    },
+    "text": {
+      "comment1": "城市的黎明",
+      "comment2": "New York,美国.意味着某种崭新的开端",
+      "short": "城市的黎明,意味着某种崭新的开端",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "New York,美国"
+    },
+    "colors": {
+      "background": "#00BFE7"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20260720/default@2x.jpg!jpg85",
+      "small2x": "{img}/20260720/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20260720/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20260720/big@2x.jpg!jpg85",
+      "big2x": "{img}/20260720/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20260720/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20260720/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20260720/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "America/New_York",
+      "offset": 240
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAgMBBAUGAAf/xAAzEAACAQMDAQYGAAUFAAAAAAABAgMABBEFITESEyJBUWFxBhQjMoGxFRYkQqFSkcHh8P/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAdEQEBAQEBAQEAAwAAAAAAAAAAAREhAjFREkFx/9oADAMBAAIRAxEAPwDr1tITuFFNq4YlqAdguPammGrCBwoz5immHKuBjFZUQAxxQQQKASBQLOM8VQuMY4qocKgMGivFsAnyoPBiQDREEmihJqoWTvRAIaBymiiFQRKcQyEchT+qCYzmJM89I/VBO1AJx5VQBI8qIro9axEm6RDhpIwfIsM0w0ZmxwKYay9dlaSGGLqKK8neAP3elWTDdP0qQLC8cOSivsMk4z71M/T/AAl/iG3Sbs+ymJ9AMDfHnTDWtmQ8AVOL1HTJ6U2GVnXsj29lPIp7yxsR7gGrqOM026kutRD38rS/TJBO5yMY/da+Rn672BlmhSVT3XUEVjWlLV4g8tknnLVlKsaQgXt1UYxJvUtWOPc51BzyMk7+5ojsdI1CS/7btY40MZGOhicg58/as1qNKiuH0zVp7zQb1b2RpXQlFfp5yhO5rfqZXOMTScLcSMeRCwx/tWvSR9A0pkGk2hZlGYl5I8q5VuE388JvrT6sXSjMxbtBsccGtQrE1bXn075yG0YCR3V0lBDAfj2rUmprLJIuQSScxkk+ZzWR03wuSWuc7bD9mpWvMb5dQAc7Hgisq+bwR/w+yI+Y61kyWReMlSAf810t1mTFG1dInYyNjqQqB61d/Gc/Vye6ea0toWLGOGJOlDxnjI96zWoJrIx3UsDBOpF63xUVm6sQX7v2hUX2PiK35YsaBb+oGCcCLj8msq6b4UcK84zyF8fWpWpWRcxvfsrSM7dAZRvxh2H/ABXTxxz9dcssN+q7MrDyOM1z46dL+YmD9LwoxzjunG9aypsOTVFEfQ6OijjbIFZ6vFyz1CPtR1SdTOpGSOc+NVESt0zkrvkU1cD8zL2hORsmOKqNj4b1BoNSDTHMbdzYfbk8+vFQVb0h52EbYRWYDc/6iT/k1r4z9VrURy/dMiLjYtmueOjPe3kWbqAyOrJ/Nb3jH9miEm3IcDkbfmpVTDaosmQN8jfFTVwc8dgZ5GuJZo3AUhkP3bVUUgZQ2Ip1kXGQGG9JDVm3uriNzm2OeobirlNOecI2GEmfMLmnUXU0W3aRo0vJO0Qd4Z3Gamql9DhiiaWa8dI1GWYgYAposR6Chj+lePhsHJQHPiKCZdJW1QzT3xSNMZYxj/3jUBv8PRyt1vcyhsf2qAKstg9/L9t1ZLSHu4wBge/FNosR6LpwQLJHI2PEnf8AVNoz9SsdGtrgLLcTQkqCFVQdt99xT+VXGgkYjnadFVJSMFgBk01C722N3GYnnnVWGCqYwfxioLGn2Rso+hZ55YwAAHIOPbxoCvbVLyMRys/RkHpyMZFXeYzfMt0wP0AIWIxt3m3qNPLIBnJYnjw3oGxnPDnjyoMy80WO5uDM9zOHYYPeB/Ypq7VaGeRyAWIDEcE1UXoI9sdbeI8KBiu6kJ1Ej1/6qCF75YNx7UCp7iSFPpkYyBg71Q+NFmCs/PptUBF2XugnG3jQGCccmg//2Q=="
+    },
+    "modifiedAt": "2026-07-07T11:06:08.006Z"
+  }
+}
