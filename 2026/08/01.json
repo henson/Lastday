@@ -1,0 +1,43 @@
+{
+  "20260801": {
+    "dateKey": "20260801",
+    "author": {
+      "name": "麦卡特鲵"
+    },
+    "text": {
+      "comment1": "我们工作",
+      "comment2": "Zurich,瑞士.乐随我们的星宿",
+      "short": "我们工作,乐随我们的星宿",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Zurich,瑞士"
+    },
+    "colors": {
+      "background": "#FF1A33"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20260801/default@2x.jpg!jpg85",
+      "small2x": "{img}/20260801/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20260801/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20260801/big@2x.jpg!jpg85",
+      "big2x": "{img}/20260801/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20260801/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20260801/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20260801/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Zurich",
+      "offset": -120
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2026-07-22T04:06:25.160Z"
+  }
+}
