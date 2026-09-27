@@ -1,0 +1,43 @@
+{
+  "20261012": {
+    "dateKey": "20261012",
+    "author": {
+      "name": "Chris"
+    },
+    "text": {
+      "comment1": "必须先造就虚空",
+      "comment2": "Kamchatka,俄罗斯.才能再把虚空填满",
+      "short": "必须先造就虚空,才能再把虚空填满",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Kamchatka,俄罗斯"
+    },
+    "colors": {
+      "background": "#00BFE7"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20261012/default@2x.jpg!jpg85",
+      "small2x": "{img}/20261012/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20261012/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20261012/big@2x.jpg!jpg85",
+      "big2x": "{img}/20261012/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20261012/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20261012/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20261012/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Vladivostok",
+      "offset": -600
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABcAD0DAREAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAwQFAAIGAQf/xAAuEAACAgEEAAUDBAEFAAAAAAABAgMRAAQSITEFEyJBUWGBkRQVMnGhI2LB0fD/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB8RAQEBAQADAAIDAAAAAAAAAAABEQISITEDBEFRYf/aAAwDAQACEQMRAD8A+gRX5Shjddn5yTE85FQ0RxxeMBDUJxzhgeO1teOEE0tLjkLSksl++XIRctlEwSkcA4YFV9bph6fNWyeswytNJTaiOEMwlBB6XKkSVfWKRYYAYwY0ep/URBw9g8YgyZyLGXCANnHCDJxhreBJWo1SFS4JXk5FqisuuWaNTIxIU9DIvUPGmo1jTyiHTueBbEjgYvLfgxW8KkbTwujDab7rvKB4agMKJ5+McJ6zgDjKARJOUTKPtjJz3iERkXy4qKHv6ZnVlHhUQ+SkSgirJsqR/wAZj1zLDleRRGHUAQtYoC7u8ibLgbv4lNp5yJGXy16s8nK8ws6XXwzwqyttJPXzmsulh4PYvLhMu8ZMJOMOVLnYH8wL13xQzDa1x7rGh/SLGzbQW52d3kdWyCRNj10mjk8tyHB/iwNnF/pZjYodfNRcGhYAOKbRitpYUWGOEuVdOQwzWEs6eTf6V5A980iaaFDLJqWF4w5BZFmddzgFDyP9v/vfOSda2MazSRSRjynUA81fd++XZE6lnTmSAoEBK16geSBkfDvxQ8K8L1D6Il1KKTdtwb+mHhbdLYdKeU3V12fjNZCVtEEKXGbWqvLiTDhQpN5RAbryg52fTt5vllArHo+5/wCs5PHGutmiiXbpZZNrVu9J6/vHJnqk802haPUCcKzRIfS15Ugq6NUIorpQo+DlpQ/EPEIBJui9W7ihxzith4a8F1Dv/pcq13Z6rK4pValUheW4+cuJAFKK7yg5yaV5wHkkCSbv4n2rvOO1rIG8jM8jSCixAv4AxeZ4paHWbtE257ptgA96zXm+k2ZT85gg0hLUWAs0e8u+olyTwyaqULEjrTE+r2++ZSbVOp8I07aWMRyuGUVV5tJiadLCeQqqmhwa+crcSX3beCesoIOoZylHkKvZAv8AIzi3WvwCGEPHTSIQfUPb8ZJh+GS6gaudk2+X/FhVgH5/AzXiZGn7H5Z+TryhrxHVR6iVXDKu1aomqGHV1lJjzSSfpE5lkLychR6gF+o+uPm4VG/cZ2O+IpsugDwSPnLnZeKz4VrJHhAeGvr8457IPVlDKWojdzwc0iXObxDLtkUkk2u4Fh+c4s/pqJDG6W7P6rvcKND74ZolxpBE6TybZwGZt3P+bA7ypaXoaYA6gxDZLHQN1Ruuyfj6YxC8cojkvYN6pRBuvscPoF8PZp5dskbO6ckfB6x8/Qt6HVCGZhLYVes1iVASRyi6FDrKJy6FGiZC1gC6Iv7ZxRoVLDyg0u1lBpgOOM0hNoYoVlqOJuOmQ1f+aw0DhG2tuYKAARZJBPyeeMJRjcjaC6DzOaQ+y18/TDfYOeGMIpWdQrbjZ2isuEf1EbOQ6ICDx/WaQgxvArojvHpIqgIzsvDfOcWtYzRbdQZPNjQ7ar04+rZ8Ehl9PF5alUVTdDaBxilp2B61fVySSAGu+8vf5TgWkjWZgkgsRrYINX/eG+ipvRsf3ALdg9/as049wl+VFVAVFZZJUzuJT6jjJ//Z"
+    },
+    "modifiedAt": "2026-09-27T11:06:34.190Z"
+  }
+}
