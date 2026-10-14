@@ -1,0 +1,43 @@
+{
+  "20261019": {
+    "dateKey": "20261019",
+    "author": {
+      "name": "紫飞多耐烦"
+    },
+    "text": {
+      "comment1": "观察内部、外部",
+      "comment2": "绍兴,中国.还有真实的天气",
+      "short": "观察内部、外部,还有真实的天气",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "绍兴,中国"
+    },
+    "colors": {
+      "background": "#E59EDD"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20261019/default@2x.jpg!jpg85",
+      "small2x": "{img}/20261019/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20261019/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20261019/big@2x.jpg!jpg85",
+      "big2x": "{img}/20261019/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20261019/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20261019/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20261019/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Asia/Shanghai",
+      "offset": -480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2026-10-14T04:08:50.466Z"
+  }
+}
