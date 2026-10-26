@@ -1,0 +1,43 @@
+{
+  "20261108": {
+    "dateKey": "20261108",
+    "author": {
+      "name": "Alfredo仍然"
+    },
+    "text": {
+      "comment1": "我们的窗子",
+      "comment2": "Vancouver,加拿大.是为整个世界敞开的大门",
+      "short": "我们的窗子,是为整个世界敞开的大门",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Vancouver,加拿大"
+    },
+    "colors": {
+      "background": "#41CAB6"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20261108/default@2x.jpg!jpg85",
+      "small2x": "{img}/20261108/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20261108/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20261108/big@2x.jpg!jpg85",
+      "big2x": "{img}/20261108/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20261108/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20261108/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20261108/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "America/Vancouver",
+      "offset": 480
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2026-10-26T08:24:22.789Z"
+  }
+}
