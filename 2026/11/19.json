@@ -1,0 +1,43 @@
+{
+  "20261119": {
+    "dateKey": "20261119",
+    "author": {
+      "name": "Sourire微醺在巴黎"
+    },
+    "text": {
+      "comment1": "生活既没给我带来风暴",
+      "comment2": "Monaco,摩纳哥.也没赐予我星辰",
+      "short": "生活既没给我带来风暴,也没赐予我星辰",
+      "watchTitle": "",
+      "watchBody": ""
+    },
+    "geo": {
+      "reverse": "Monaco,摩纳哥"
+    },
+    "colors": {
+      "background": "#FF0896"
+    },
+    "watchIcons": {
+      "38": "{img}/watchIcons/nextday_default/nextday_38.png",
+      "42": "{img}/watchIcons/nextday_default/nextday_42.png"
+    },
+    "images": {
+      "small": "{img}/20261119/default@2x.jpg!jpg85",
+      "small2x": "{img}/20261119/default@2x.jpg!jpg85",
+      "small568h2x": "{img}/20261119/default-568h@2x.jpg!jpg85",
+      "big": "{img}/20261119/big@2x.jpg!jpg85",
+      "big2x": "{img}/20261119/big@2x.jpg!jpg85",
+      "big568h2x": "{img}/20261119/big-568h@2x.jpg!jpg85",
+      "big568h3x": "{img}/20261119/big-568h@3x.jpg!jpg85",
+      "iphone-x": "{img}/20261119/iPhone-x.jpg!jpg85"
+    },
+    "timezone": {
+      "tz": "Europe/Monaco",
+      "offset": -60
+    },
+    "thumbnail": {
+      "url": "data:image/jpeg;base64,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"
+    },
+    "modifiedAt": "2026-11-10T03:18:12.042Z"
+  }
+}
